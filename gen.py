@@ -12,11 +12,11 @@ import json
 #B: Spanish (Es)
 #C: Romanian (RO)
 
-language_A = 'fr'
-language_B = 'es'
-language_C = 'ro'
-DATA_FILE ="fr-ro/opus-2020-01-16.test.txt"
-SAVE = False
+language_A = 'id'#'fr'
+language_B = 'fr'#'es'
+language_C = 'es' #ro'
+DATA_FILE = language_A+"-"+language_C+"/opus-2020-01-16.test.txt" #"fr-ro/opus-2020-01-16.test.txt"
+SAVE = True
 
 def process_paired_data(file,n=None):
 
@@ -74,7 +74,7 @@ def compare_performance(a_input,c_from_a,c_from_b,c_gold):
 
 if __name__ == "__main__":
 
-	a_input,c_gold = process_paired_data(DATA_FILE,n=10)
+	a_input,c_gold = process_paired_data(DATA_FILE,n=1000)
 	b_from_a = translate(a_input,language_A,language_B)
 	c_from_b = translate(b_from_a,language_B,language_C)
 	c_from_a = translate(a_input,language_A,language_C)
