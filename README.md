@@ -7,4 +7,5 @@ Research Qs:
 - Can we predict how a given input sentence should be routed?
 
 
-
+# TODO:
+- Condition routing prediction on output translations
