@@ -1,0 +1,3031 @@
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-de
+https://huggingface.co/Helsinki-NLP/opus-mt-en-it
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ROMANCE
+https://huggingface.co/Helsinki-NLP/opus-mt-en-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ru-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-mt-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ru
+https://huggingface.co/Helsinki-NLP/opus-mt-de-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ROMANCE-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ru-en
+https://huggingface.co/Helsinki-NLP/opus-mt-th-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-nl
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-th
+https://huggingface.co/Helsinki-NLP/opus-mt-nl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-it-en
+https://huggingface.co/Helsinki-NLP/opus-mt-jap-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-el
+https://huggingface.co/Helsinki-NLP/opus-mt-en-hu
+https://huggingface.co/Helsinki-NLP/opus-mt-hi-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-jap
+https://huggingface.co/Helsinki-NLP/opus-mt-da-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ZH-de
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ZH
+https://huggingface.co/Helsinki-NLP/opus-mt-en-da
+https://huggingface.co/Helsinki-NLP/opus-mt-en-id
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ca
+https://huggingface.co/Helsinki-NLP/opus-mt-ar-en
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ch_group
+https://huggingface.co/Helsinki-NLP/opus-mt-id-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-CELTIC
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-es
+https://huggingface.co/Helsinki-NLP/opus-mt-de-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-cs-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tr-en
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-de
+https://huggingface.co/Helsinki-NLP/opus-mt-es-de
+https://huggingface.co/Helsinki-NLP/opus-mt-es-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-es-eu
+https://huggingface.co/Helsinki-NLP/opus-mt-en_el_es_fi-en_el_es_fi
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ru
+https://huggingface.co/Helsinki-NLP/opus-mt-el-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-en-eu
+https://huggingface.co/Helsinki-NLP/opus-mt-de-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ru-es
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ru
+https://huggingface.co/Helsinki-NLP/opus-mt-mr-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ko-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mk
+https://huggingface.co/Helsinki-NLP/opus-mt-en-cs
+https://huggingface.co/Helsinki-NLP/opus-mt-en-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-SCANDINAVIA-SCANDINAVIA
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ca
+https://huggingface.co/Helsinki-NLP/opus-mt-de-it
+https://huggingface.co/Helsinki-NLP/opus-mt-aed-es
+https://huggingface.co/Helsinki-NLP/opus-mt-en-bg
+https://huggingface.co/Helsinki-NLP/opus-mt-ZH-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-en-et
+https://huggingface.co/Helsinki-NLP/opus-mt-lt-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-NORTH_EU-NORTH_EU
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ca-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bn-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bg-en
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ZH
+https://huggingface.co/Helsinki-NLP/opus-mt-af-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-cy
+https://huggingface.co/Helsinki-NLP/opus-mt-en-uk
+https://huggingface.co/Helsinki-NLP/opus-mt-en-he
+https://huggingface.co/Helsinki-NLP/opus-mt-ZH-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ee
+https://huggingface.co/Helsinki-NLP/opus-mt-en-af
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mr
+https://huggingface.co/Helsinki-NLP/opus-mt-en-st
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-NORWAY
+https://huggingface.co/Helsinki-NLP/opus-mt-ca-es
+https://huggingface.co/Helsinki-NLP/opus-mt-en-chk
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ig
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ru
+https://huggingface.co/Helsinki-NLP/opus-mt-chk-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-eo
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-de
+https://huggingface.co/Helsinki-NLP/opus-mt-bzs-en
+https://huggingface.co/Helsinki-NLP/opus-mt-de-de
+https://huggingface.co/Helsinki-NLP/opus-mt-en-gl
+https://huggingface.co/Helsinki-NLP/opus-mt-eu-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bcl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ceb-en
+https://huggingface.co/Helsinki-NLP/opus-mt-de-el
+https://huggingface.co/Helsinki-NLP/opus-mt-en-bcl
+https://huggingface.co/Helsinki-NLP/opus-mt-en-bzs
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ceb
+https://huggingface.co/Helsinki-NLP/opus-mt-tn-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-bem
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tn
+https://huggingface.co/Helsinki-NLP/opus-mt-es-uk
+https://huggingface.co/Helsinki-NLP/opus-mt-hu-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sk
+https://huggingface.co/Helsinki-NLP/opus-mt-bem-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ber-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bi-en
+https://huggingface.co/Helsinki-NLP/opus-mt-es-it
+https://huggingface.co/Helsinki-NLP/opus-mt-et-en
+https://huggingface.co/Helsinki-NLP/opus-mt-eu-es
+https://huggingface.co/Helsinki-NLP/opus-mt-hu-de
+https://huggingface.co/Helsinki-NLP/opus-mt-cy-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tl
+https://huggingface.co/Helsinki-NLP/opus-mt-en-crs
+https://huggingface.co/Helsinki-NLP/opus-mt-en-hil
+https://huggingface.co/Helsinki-NLP/opus-mt-ny-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sk-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ZH
+https://huggingface.co/Helsinki-NLP/opus-mt-crs-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ee-en
+https://huggingface.co/Helsinki-NLP/opus-mt-efi-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-iso
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ln
+https://huggingface.co/Helsinki-NLP/opus-mt-en-rw
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sw
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ln
+https://huggingface.co/Helsinki-NLP/opus-mt-lg-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bg-es
+https://huggingface.co/Helsinki-NLP/opus-mt-bzs-es
+https://huggingface.co/Helsinki-NLP/opus-mt-de-et
+https://huggingface.co/Helsinki-NLP/opus-mt-en-bi
+https://huggingface.co/Helsinki-NLP/opus-mt-en-efi
+https://huggingface.co/Helsinki-NLP/opus-mt-en-guw
+https://huggingface.co/Helsinki-NLP/opus-mt-en-loz
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ny
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sn
+https://huggingface.co/Helsinki-NLP/opus-mt-loz-en
+https://huggingface.co/Helsinki-NLP/opus-mt-st-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ru
+https://huggingface.co/Helsinki-NLP/opus-mt-ti-en
+https://huggingface.co/Helsinki-NLP/opus-mt-uk-en
+https://huggingface.co/Helsinki-NLP/opus-mt-af-de
+https://huggingface.co/Helsinki-NLP/opus-mt-bg-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-bg-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ha
+https://huggingface.co/Helsinki-NLP/opus-mt-en-pon
+https://huggingface.co/Helsinki-NLP/opus-mt-guw-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ig-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ilo-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ln-en
+https://huggingface.co/Helsinki-NLP/opus-mt-rw-en
+https://huggingface.co/Helsinki-NLP/opus-mt-swc-en
+https://huggingface.co/Helsinki-NLP/opus-mt-af-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ceb-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ber
+https://huggingface.co/Helsinki-NLP/opus-mt-en-fj
+https://huggingface.co/Helsinki-NLP/opus-mt-en-gaa
+https://huggingface.co/Helsinki-NLP/opus-mt-en-gil
+https://huggingface.co/Helsinki-NLP/opus-mt-en-lg
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mg
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ml
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ti
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ts
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ga-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lua-en
+https://huggingface.co/Helsinki-NLP/opus-mt-mg-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ml-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pon-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sn-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tiv-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ts-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tvl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bem-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ber-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-de-pon
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ga
+https://huggingface.co/Helsinki-NLP/opus-mt-en-gv
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ilo
+https://huggingface.co/Helsinki-NLP/opus-mt-en-is
+https://huggingface.co/Helsinki-NLP/opus-mt-en-kqn
+https://huggingface.co/Helsinki-NLP/opus-mt-en-kwy
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mt
+https://huggingface.co/Helsinki-NLP/opus-mt-en-pag
+https://huggingface.co/Helsinki-NLP/opus-mt-en-rnd
+https://huggingface.co/Helsinki-NLP/opus-mt-en-run
+https://huggingface.co/Helsinki-NLP/opus-mt-en-toi
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tvl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-el
+https://huggingface.co/Helsinki-NLP/opus-mt-es-gl
+https://huggingface.co/Helsinki-NLP/opus-mt-gil-en
+https://huggingface.co/Helsinki-NLP/opus-mt-gl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ha-en
+https://huggingface.co/Helsinki-NLP/opus-mt-hil-en
+https://huggingface.co/Helsinki-NLP/opus-mt-is-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-de
+https://huggingface.co/Helsinki-NLP/opus-mt-kqn-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lue-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lus-en
+https://huggingface.co/Helsinki-NLP/opus-mt-mh-en
+https://huggingface.co/Helsinki-NLP/opus-mt-niu-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pag-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sg-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tll-en
+https://huggingface.co/Helsinki-NLP/opus-mt-to-en
+https://huggingface.co/Helsinki-NLP/opus-mt-xh-en
+https://huggingface.co/Helsinki-NLP/opus-mt-af-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ase-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ase-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ase-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-bcl-de
+https://huggingface.co/Helsinki-NLP/opus-mt-bcl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-bcl-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-bcl-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-bem-es
+https://huggingface.co/Helsinki-NLP/opus-mt-bem-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ber-es
+https://huggingface.co/Helsinki-NLP/opus-mt-bg-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-bzs-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ca-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ceb-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-chk-es
+https://huggingface.co/Helsinki-NLP/opus-mt-crs-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-cs-de
+https://huggingface.co/Helsinki-NLP/opus-mt-cs-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-csn-es
+https://huggingface.co/Helsinki-NLP/opus-mt-de-lt
+https://huggingface.co/Helsinki-NLP/opus-mt-de-pap
+https://huggingface.co/Helsinki-NLP/opus-mt-de-pl
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ho
+https://huggingface.co/Helsinki-NLP/opus-mt-en-kg
+https://huggingface.co/Helsinki-NLP/opus-mt-en-lu
+https://huggingface.co/Helsinki-NLP/opus-mt-en-lua
+https://huggingface.co/Helsinki-NLP/opus-mt-en-lue
+https://huggingface.co/Helsinki-NLP/opus-mt-en-lus
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mfe
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mh
+https://huggingface.co/Helsinki-NLP/opus-mt-en-niu
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sg
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sm
+https://huggingface.co/Helsinki-NLP/opus-mt-en-sq
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tiv
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tll
+https://huggingface.co/Helsinki-NLP/opus-mt-eo-en
+https://huggingface.co/Helsinki-NLP/opus-mt-es-NORWAY
+https://huggingface.co/Helsinki-NLP/opus-mt-fj-en
+https://huggingface.co/Helsinki-NLP/opus-mt-gaa-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ho-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ht-en
+https://huggingface.co/Helsinki-NLP/opus-mt-iso-en
+https://huggingface.co/Helsinki-NLP/opus-mt-it-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-kg-en
+https://huggingface.co/Helsinki-NLP/opus-mt-kwy-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lu-en
+https://huggingface.co/Helsinki-NLP/opus-mt-mfe-en
+https://huggingface.co/Helsinki-NLP/opus-mt-mk-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pis-en
+https://huggingface.co/Helsinki-NLP/opus-mt-rnd-en
+https://huggingface.co/Helsinki-NLP/opus-mt-run-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sm-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sq-en
+https://huggingface.co/Helsinki-NLP/opus-mt-toi-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tr-es
+https://huggingface.co/Helsinki-NLP/opus-mt-af-es
+https://huggingface.co/Helsinki-NLP/opus-mt-af-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-am-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ar-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ar-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ase-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ase-en
+https://huggingface.co/Helsinki-NLP/opus-mt-bcl-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-bem-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-bi-es
+https://huggingface.co/Helsinki-NLP/opus-mt-bi-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-bi-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-bzs-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-bzs-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ca-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ceb-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-crs-de
+https://huggingface.co/Helsinki-NLP/opus-mt-crs-es
+https://huggingface.co/Helsinki-NLP/opus-mt-crs-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-crs-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-cs-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-cs-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-csg-es
+https://huggingface.co/Helsinki-NLP/opus-mt-de-bi
+https://huggingface.co/Helsinki-NLP/opus-mt-de-crs
+https://huggingface.co/Helsinki-NLP/opus-mt-de-da
+https://huggingface.co/Helsinki-NLP/opus-mt-de-efi
+https://huggingface.co/Helsinki-NLP/opus-mt-de-fj
+https://huggingface.co/Helsinki-NLP/opus-mt-efi-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ht
+https://huggingface.co/Helsinki-NLP/opus-mt-en-kwn
+https://huggingface.co/Helsinki-NLP/opus-mt-en-nso
+https://huggingface.co/Helsinki-NLP/opus-mt-en-pis
+https://huggingface.co/Helsinki-NLP/opus-mt-en-swc
+https://huggingface.co/Helsinki-NLP/opus-mt-en-to
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tpi
+https://huggingface.co/Helsinki-NLP/opus-mt-es-es
+https://huggingface.co/Helsinki-NLP/opus-mt-et-de
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tr
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-pl
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-swc
+https://huggingface.co/Helsinki-NLP/opus-mt-gv-en
+https://huggingface.co/Helsinki-NLP/opus-mt-nso-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pap-en
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-to
+https://huggingface.co/Helsinki-NLP/opus-mt-tpi-en
+https://huggingface.co/Helsinki-NLP/opus-mt-yo-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ceb-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ch_group-de
+https://huggingface.co/Helsinki-NLP/opus-mt-chk-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-chk-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-da-es
+https://huggingface.co/Helsinki-NLP/opus-mt-da-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-da-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-de-af
+https://huggingface.co/Helsinki-NLP/opus-mt-de-bcl
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ca
+https://huggingface.co/Helsinki-NLP/opus-mt-de-eo
+https://huggingface.co/Helsinki-NLP/opus-mt-de-gil
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ha
+https://huggingface.co/Helsinki-NLP/opus-mt-de-he
+https://huggingface.co/Helsinki-NLP/opus-mt-de-hil
+https://huggingface.co/Helsinki-NLP/opus-mt-de-hr
+https://huggingface.co/Helsinki-NLP/opus-mt-de-hu
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ilo
+https://huggingface.co/Helsinki-NLP/opus-mt-de-is
+https://huggingface.co/Helsinki-NLP/opus-mt-de-iso
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ln
+https://huggingface.co/Helsinki-NLP/opus-mt-de-lua
+https://huggingface.co/Helsinki-NLP/opus-mt-de-mt
+https://huggingface.co/Helsinki-NLP/opus-mt-de-pag
+https://huggingface.co/Helsinki-NLP/opus-mt-ee-es
+https://huggingface.co/Helsinki-NLP/opus-mt-en-kj
+https://huggingface.co/Helsinki-NLP/opus-mt-en-mos
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ng
+https://huggingface.co/Helsinki-NLP/opus-mt-en-pap
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ro
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ss
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tw
+https://huggingface.co/Helsinki-NLP/opus-mt-en-xh
+https://huggingface.co/Helsinki-NLP/opus-mt-es-war
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-NORWAY
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-crs
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-rw
+https://huggingface.co/Helsinki-NLP/opus-mt-kj-en
+https://huggingface.co/Helsinki-NLP/opus-mt-kwn-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lg-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ln-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lt-de
+https://huggingface.co/Helsinki-NLP/opus-mt-lu-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-lun-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lv-en
+https://huggingface.co/Helsinki-NLP/opus-mt-nso-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-rw-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sg-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-xh
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-yap
+https://huggingface.co/Helsinki-NLP/opus-mt-th-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-uk-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-umb-en
+https://huggingface.co/Helsinki-NLP/opus-mt-da-de
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ase
+https://huggingface.co/Helsinki-NLP/opus-mt-de-bzs
+https://huggingface.co/Helsinki-NLP/opus-mt-de-cs
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ee
+https://huggingface.co/Helsinki-NLP/opus-mt-de-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-de-gaa
+https://huggingface.co/Helsinki-NLP/opus-mt-de-guw
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ho
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ht
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ig
+https://huggingface.co/Helsinki-NLP/opus-mt-de-kg
+https://huggingface.co/Helsinki-NLP/opus-mt-de-loz
+https://huggingface.co/Helsinki-NLP/opus-mt-de-niu
+https://huggingface.co/Helsinki-NLP/opus-mt-de-nl
+https://huggingface.co/Helsinki-NLP/opus-mt-de-nso
+https://huggingface.co/Helsinki-NLP/opus-mt-de-ny
+https://huggingface.co/Helsinki-NLP/opus-mt-de-pis
+https://huggingface.co/Helsinki-NLP/opus-mt-ee-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ee-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ee-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ee-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-efi-de
+https://huggingface.co/Helsinki-NLP/opus-mt-efi-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-efi-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-el-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-el-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-en-lun
+https://huggingface.co/Helsinki-NLP/opus-mt-en-luo
+https://huggingface.co/Helsinki-NLP/opus-mt-en-nyk
+https://huggingface.co/Helsinki-NLP/opus-mt-en-om
+https://huggingface.co/Helsinki-NLP/opus-mt-en-tdt
+https://huggingface.co/Helsinki-NLP/opus-mt-en-ty
+https://huggingface.co/Helsinki-NLP/opus-mt-en-umb
+https://huggingface.co/Helsinki-NLP/opus-mt-eo-de
+https://huggingface.co/Helsinki-NLP/opus-mt-eo-es
+https://huggingface.co/Helsinki-NLP/opus-mt-eo-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-eo-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-es-aed
+https://huggingface.co/Helsinki-NLP/opus-mt-es-af
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ase
+https://huggingface.co/Helsinki-NLP/opus-mt-es-bcl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ber
+https://huggingface.co/Helsinki-NLP/opus-mt-es-bg
+https://huggingface.co/Helsinki-NLP/opus-mt-es-bi
+https://huggingface.co/Helsinki-NLP/opus-mt-es-bzs
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ceb
+https://huggingface.co/Helsinki-NLP/opus-mt-es-crs
+https://huggingface.co/Helsinki-NLP/opus-mt-es-cs
+https://huggingface.co/Helsinki-NLP/opus-mt-es-csg
+https://huggingface.co/Helsinki-NLP/opus-mt-es-csn
+https://huggingface.co/Helsinki-NLP/opus-mt-es-da
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ee
+https://huggingface.co/Helsinki-NLP/opus-mt-es-efi
+https://huggingface.co/Helsinki-NLP/opus-mt-es-eo
+https://huggingface.co/Helsinki-NLP/opus-mt-es-et
+https://huggingface.co/Helsinki-NLP/opus-mt-es-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-es-fj
+https://huggingface.co/Helsinki-NLP/opus-mt-es-gaa
+https://huggingface.co/Helsinki-NLP/opus-mt-es-gil
+https://huggingface.co/Helsinki-NLP/opus-mt-es-guw
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ha
+https://huggingface.co/Helsinki-NLP/opus-mt-es-he
+https://huggingface.co/Helsinki-NLP/opus-mt-es-hil
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ho
+https://huggingface.co/Helsinki-NLP/opus-mt-es-hr
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ht
+https://huggingface.co/Helsinki-NLP/opus-mt-es-id
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ig
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ilo
+https://huggingface.co/Helsinki-NLP/opus-mt-es-is
+https://huggingface.co/Helsinki-NLP/opus-mt-es-iso
+https://huggingface.co/Helsinki-NLP/opus-mt-es-kg
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ln
+https://huggingface.co/Helsinki-NLP/opus-mt-es-loz
+https://huggingface.co/Helsinki-NLP/opus-mt-es-lua
+https://huggingface.co/Helsinki-NLP/opus-mt-es-lus
+https://huggingface.co/Helsinki-NLP/opus-mt-es-mfs
+https://huggingface.co/Helsinki-NLP/opus-mt-es-mk
+https://huggingface.co/Helsinki-NLP/opus-mt-es-mt
+https://huggingface.co/Helsinki-NLP/opus-mt-es-niu
+https://huggingface.co/Helsinki-NLP/opus-mt-es-nl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-nso
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ny
+https://huggingface.co/Helsinki-NLP/opus-mt-es-pag
+https://huggingface.co/Helsinki-NLP/opus-mt-es-pap
+https://huggingface.co/Helsinki-NLP/opus-mt-es-pis
+https://huggingface.co/Helsinki-NLP/opus-mt-es-pl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-pon
+https://huggingface.co/Helsinki-NLP/opus-mt-es-prl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ro
+https://huggingface.co/Helsinki-NLP/opus-mt-es-rw
+https://huggingface.co/Helsinki-NLP/opus-mt-es-sg
+https://huggingface.co/Helsinki-NLP/opus-mt-es-sl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-sm
+https://huggingface.co/Helsinki-NLP/opus-mt-es-sn
+https://huggingface.co/Helsinki-NLP/opus-mt-es-srn
+https://huggingface.co/Helsinki-NLP/opus-mt-es-st
+https://huggingface.co/Helsinki-NLP/opus-mt-es-swc
+https://huggingface.co/Helsinki-NLP/opus-mt-es-tll
+https://huggingface.co/Helsinki-NLP/opus-mt-es-tn
+https://huggingface.co/Helsinki-NLP/opus-mt-es-to
+https://huggingface.co/Helsinki-NLP/opus-mt-es-tpi
+https://huggingface.co/Helsinki-NLP/opus-mt-es-tvl
+https://huggingface.co/Helsinki-NLP/opus-mt-es-tw
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ty
+https://huggingface.co/Helsinki-NLP/opus-mt-es-tzo
+https://huggingface.co/Helsinki-NLP/opus-mt-es-ve
+https://huggingface.co/Helsinki-NLP/opus-mt-es-wls
+https://huggingface.co/Helsinki-NLP/opus-mt-es-xh
+https://huggingface.co/Helsinki-NLP/opus-mt-es-yo
+https://huggingface.co/Helsinki-NLP/opus-mt-es-yua
+https://huggingface.co/Helsinki-NLP/opus-mt-es-zai
+https://huggingface.co/Helsinki-NLP/opus-mt-et-es
+https://huggingface.co/Helsinki-NLP/opus-mt-et-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-et-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-et-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-af
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-bcl
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-bem
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-bg
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-bzs
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ceb
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-cs
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ee
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-efi
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-el
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-es
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-et
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-fj
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-fse
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-gaa
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-gil
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-guw
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ha
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-he
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-hil
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ho
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-hr
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ht
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-hu
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-id
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ig
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ilo
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-is
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-iso
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-it
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-kg
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-kqn
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-lg
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ln
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-lu
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-lua
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-lue
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-lus
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-lv
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-mfe
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-mg
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-mh
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-mk
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-mos
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-mt
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-niu
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-nl
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-nso
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ny
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-pag
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-pap
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-pis
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-pon
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ro
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-run
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-rw
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sg
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sk
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sl
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sm
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sn
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sq
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-srn
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-st
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-sw
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-swc
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tiv
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tll
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tn
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-to
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-toi
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tpi
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ts
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tvl
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-tw
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ty
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-uk
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-ve
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-war
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-wls
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-xh
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-yap
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-yo
+https://huggingface.co/Helsinki-NLP/opus-mt-fi-zne
+https://huggingface.co/Helsinki-NLP/opus-mt-fi_nb_no_nn_ru_sv_en-SAMI
+https://huggingface.co/Helsinki-NLP/opus-mt-fj-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-af
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ase
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-bcl
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-bem
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ber
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-bi
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-bzs
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ca
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ceb
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-crs
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ee
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-efi
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-el
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-eo
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-fj
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-gaa
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-gil
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-guw
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ha
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-he
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-hil
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ho
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-hr
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ht
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-hu
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-id
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ig
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ilo
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-iso
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-kg
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-kqn
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-kwy
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-lg
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-loz
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-lu
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-lua
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-lue
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-lus
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-mfe
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-mh
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-mos
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-mt
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-niu
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-nso
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ny
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-pag
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-pap
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-pis
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-pon
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-rnd
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ro
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-run
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-sg
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-sk
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-sl
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-sm
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-sn
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-srn
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-st
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tiv
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tll
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tn
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-to
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tpi
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ts
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tum
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tvl
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-tw
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ty
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-uk
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-ve
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-war
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-wls
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-xh
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-yap
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-yo
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-zne
+https://huggingface.co/Helsinki-NLP/opus-mt-fse-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-gaa-de
+https://huggingface.co/Helsinki-NLP/opus-mt-gaa-es
+https://huggingface.co/Helsinki-NLP/opus-mt-gaa-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-gaa-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-gaa-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-gil-es
+https://huggingface.co/Helsinki-NLP/opus-mt-gil-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-gil-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-gil-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-gl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-guw-de
+https://huggingface.co/Helsinki-NLP/opus-mt-guw-es
+https://huggingface.co/Helsinki-NLP/opus-mt-guw-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-guw-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-guw-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ha-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ha-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ha-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ha-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-he-de
+https://huggingface.co/Helsinki-NLP/opus-mt-he-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-he-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-hil-de
+https://huggingface.co/Helsinki-NLP/opus-mt-hil-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-hr-es
+https://huggingface.co/Helsinki-NLP/opus-mt-hr-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-hr-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-hr-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ht-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ht-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ht-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ht-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-hu-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-hu-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-hu-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-hy-en
+https://huggingface.co/Helsinki-NLP/opus-mt-id-es
+https://huggingface.co/Helsinki-NLP/opus-mt-id-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-id-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-id-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ig-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ig-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ig-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ig-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ig-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ilo-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ilo-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ilo-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ilo-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-is-de
+https://huggingface.co/Helsinki-NLP/opus-mt-is-es
+https://huggingface.co/Helsinki-NLP/opus-mt-is-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-is-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-is-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-iso-es
+https://huggingface.co/Helsinki-NLP/opus-mt-iso-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-iso-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-iso-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-it-de
+https://huggingface.co/Helsinki-NLP/opus-mt-it-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-it-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ka-en
+https://huggingface.co/Helsinki-NLP/opus-mt-kab-en
+https://huggingface.co/Helsinki-NLP/opus-mt-kg-es
+https://huggingface.co/Helsinki-NLP/opus-mt-kg-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-kg-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-kl-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ko-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ko-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ko-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ko-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-kqn-es
+https://huggingface.co/Helsinki-NLP/opus-mt-kqn-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-kqn-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-kwy-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-kwy-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-lg-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lg-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-lg-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ln-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ln-es
+https://huggingface.co/Helsinki-NLP/opus-mt-loz-de
+https://huggingface.co/Helsinki-NLP/opus-mt-loz-es
+https://huggingface.co/Helsinki-NLP/opus-mt-loz-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-loz-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-loz-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-lt-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lt-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lu-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lu-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-lu-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lua-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lua-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-lua-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lua-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-lue-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lue-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-lue-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lue-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-luo-en
+https://huggingface.co/Helsinki-NLP/opus-mt-lus-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lus-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-lus-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lus-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-lv-es
+https://huggingface.co/Helsinki-NLP/opus-mt-lv-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-lv-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-lv-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-mfe-es
+https://huggingface.co/Helsinki-NLP/opus-mt-mfs-es
+https://huggingface.co/Helsinki-NLP/opus-mt-mg-es
+https://huggingface.co/Helsinki-NLP/opus-mt-mh-es
+https://huggingface.co/Helsinki-NLP/opus-mt-mh-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-mk-es
+https://huggingface.co/Helsinki-NLP/opus-mt-mk-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-mk-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-mos-en
+https://huggingface.co/Helsinki-NLP/opus-mt-mt-es
+https://huggingface.co/Helsinki-NLP/opus-mt-mt-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-mt-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-mt-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ng-en
+https://huggingface.co/Helsinki-NLP/opus-mt-niu-de
+https://huggingface.co/Helsinki-NLP/opus-mt-niu-es
+https://huggingface.co/Helsinki-NLP/opus-mt-niu-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-niu-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-niu-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-nl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-nl-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-nl-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-nl-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-nso-de
+https://huggingface.co/Helsinki-NLP/opus-mt-nso-es
+https://huggingface.co/Helsinki-NLP/opus-mt-nso-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-nso-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ny-de
+https://huggingface.co/Helsinki-NLP/opus-mt-ny-es
+https://huggingface.co/Helsinki-NLP/opus-mt-nyk-en
+https://huggingface.co/Helsinki-NLP/opus-mt-om-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pa-en
+https://huggingface.co/Helsinki-NLP/opus-mt-pag-de
+https://huggingface.co/Helsinki-NLP/opus-mt-pag-es
+https://huggingface.co/Helsinki-NLP/opus-mt-pag-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-pag-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-pap-de
+https://huggingface.co/Helsinki-NLP/opus-mt-pap-es
+https://huggingface.co/Helsinki-NLP/opus-mt-pap-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-pap-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-pis-es
+https://huggingface.co/Helsinki-NLP/opus-mt-pis-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-pis-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-pis-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-pl-de
+https://huggingface.co/Helsinki-NLP/opus-mt-pl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-pl-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-pl-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-pon-es
+https://huggingface.co/Helsinki-NLP/opus-mt-pon-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-pon-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-pon-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-prl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-rnd-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-rnd-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ro-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ro-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ro-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ru-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-run-es
+https://huggingface.co/Helsinki-NLP/opus-mt-run-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-rw-es
+https://huggingface.co/Helsinki-NLP/opus-mt-rw-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sg-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sg-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-sg-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sk-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sk-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-sk-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sk-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sl-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-sl-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sl-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sm-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sm-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sn-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sn-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sn-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sq-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sq-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-srn-en
+https://huggingface.co/Helsinki-NLP/opus-mt-srn-es
+https://huggingface.co/Helsinki-NLP/opus-mt-srn-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-srn-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ss-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ssp-es
+https://huggingface.co/Helsinki-NLP/opus-mt-st-es
+https://huggingface.co/Helsinki-NLP/opus-mt-st-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-st-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-st-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-af
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ase
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-bcl
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-bem
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-bg
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-bi
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-bzs
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ceb
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-chk
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-crs
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-cs
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ee
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-efi
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-el
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-eo
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-es
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-et
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-fj
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-gaa
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-gil
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-guw
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ha
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-he
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-hil
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ho
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-hr
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ht
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-hu
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-id
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ig
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ilo
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-is
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-iso
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-kg
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-kqn
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-kwy
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-lg
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ln
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-lu
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-lua
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-lue
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-lus
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-lv
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-mfe
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-mh
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-mos
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-mt
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-niu
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-nl
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-nso
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ny
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-pag
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-pap
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-pis
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-pon
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-rnd
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ro
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-run
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-rw
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sg
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sk
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sl
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sm
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sn
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sq
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-srn
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-st
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-swc
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tiv
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tll
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tn
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-toi
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tpi
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ts
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tum
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tvl
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-tw
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ty
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-uk
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-umb
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-ve
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-war
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-wls
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-yo
+https://huggingface.co/Helsinki-NLP/opus-mt-sv-zne
+https://huggingface.co/Helsinki-NLP/opus-mt-swc-es
+https://huggingface.co/Helsinki-NLP/opus-mt-swc-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-swc-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-swc-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tiv-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tiv-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tll-es
+https://huggingface.co/Helsinki-NLP/opus-mt-tll-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-tll-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tll-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tn-es
+https://huggingface.co/Helsinki-NLP/opus-mt-tn-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tn-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-to-es
+https://huggingface.co/Helsinki-NLP/opus-mt-to-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-to-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-toi-es
+https://huggingface.co/Helsinki-NLP/opus-mt-toi-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-toi-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-toi-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tpi-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tr-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tr-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ts-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ts-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ts-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ts-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tum-en
+https://huggingface.co/Helsinki-NLP/opus-mt-tum-es
+https://huggingface.co/Helsinki-NLP/opus-mt-tum-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tum-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tvl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-tvl-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-tvl-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tvl-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tw-es
+https://huggingface.co/Helsinki-NLP/opus-mt-tw-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-tw-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-tw-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-ty-es
+https://huggingface.co/Helsinki-NLP/opus-mt-ty-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-ty-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ty-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-tzo-es
+https://huggingface.co/Helsinki-NLP/opus-mt-uk-es
+https://huggingface.co/Helsinki-NLP/opus-mt-uk-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-uk-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-ve-en
+https://huggingface.co/Helsinki-NLP/opus-mt-ve-es
+https://huggingface.co/Helsinki-NLP/opus-mt-vsl-es
+https://huggingface.co/Helsinki-NLP/opus-mt-wa-en
+https://huggingface.co/Helsinki-NLP/opus-mt-wal-en
+https://huggingface.co/Helsinki-NLP/opus-mt-war-es
+https://huggingface.co/Helsinki-NLP/opus-mt-war-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-war-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-war-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-wls-en
+https://huggingface.co/Helsinki-NLP/opus-mt-wls-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-wls-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-xh-es
+https://huggingface.co/Helsinki-NLP/opus-mt-xh-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-xh-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-yap-en
+https://huggingface.co/Helsinki-NLP/opus-mt-yap-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-yap-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-yo-es
+https://huggingface.co/Helsinki-NLP/opus-mt-yo-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-yo-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-yo-sv
+https://huggingface.co/Helsinki-NLP/opus-mt-zai-es
+https://huggingface.co/Helsinki-NLP/opus-mt-zne-es
+https://huggingface.co/Helsinki-NLP/opus-mt-zne-fi
+https://huggingface.co/Helsinki-NLP/opus-mt-zne-fr
+https://huggingface.co/Helsinki-NLP/opus-mt-zne-sv
+fr-en 57.5
+en-de 47.3
+en-it 48.2
+en-ROMANCE 50.1
+en-fr 50.5
+ru-fr 51.5
+mt-en 53.3
+en-ru 48.4
+de-en 55.4
+en-sv 60.1
+ROMANCE-en 62.2
+ru-en 61.1
+th-en 47.2
+en-nl 57.1
+sv-th 21.2
+nl-en 60.9
+it-en 70.9
+jap-en 52.6
+en-el 56.4
+en-hu 40.1
+hi-en 40.4
+ja-en 41.7
+sv-en 64.5
+en-jap 42.1
+da-en 63.6
+ZH-de 33.4
+de-ZH 24.4
+en-da 60.4
+en-id 38.3
+es-ca 68.9
+ar-en 49.4
+de-ch_group None
+id-en 47.7
+pl-en 54.9
+en-CELTIC 22.8
+fr-es 53.2
+de-fr 49.2
+cs-en 58.0
+tr-en 63.5
+fr-de 49.1
+es-de 50.0
+es-fr 58.4
+es-eu 36.9
+en_el_es_fi-en_el_es_fi 56.7
+es-ru 47.0
+el-fr 63.0
+en-eu 30.5
+de-es 48.5
+ru-es 49.4
+fr-ru 37.9
+mr-en 38.2
+ko-en 39.2
+en-mk 52.1
+en-cs 46.1
+en-fi 25.7
+SCANDINAVIA-SCANDINAVIA 69.2
+en-ca 47.2
+de-it 45.3
+aed-es 89.1
+en-bg 50.0
+ZH-fi 21.6
+en-et 54.0
+lt-sv 22.9
+NORTH_EU-NORTH_EU 48.1
+fi-en 31.4
+ca-en 51.4
+bn-en 49.2
+bg-en 59.4
+fi-ZH 23.4
+af-en 60.8
+en-cy 25.3
+en-uk 50.2
+en-he 40.1
+ZH-sv 46.6
+en-ee 6.0
+en-af 56.1
+en-mr 22.0
+en-st 49.8
+sv-NORWAY 39.3
+ca-es 74.9
+en-chk 26.1
+en-ig 3.8
+fi-ru 46.3
+chk-en 31.2
+en-eo 49.5
+fi-de 45.2
+bzs-en 44.5
+de-de 40.7
+en-gl 36.4
+eu-en 46.1
+bcl-en 56.1
+ceb-en 52.6
+de-el 45.7
+en-bcl 54.3
+en-bzs 43.4
+en-ceb 31.3
+tn-en 43.4
+en-bem 29.7
+en-tn 45.5
+es-uk 38.0
+hu-en 52.9
+tl-en 34.9
+en-sk 36.8
+bem-en 33.4
+ber-en 37.3
+bi-en 30.3
+es-it 55.9
+et-en 59.9
+eu-es 48.8
+hu-de 44.1
+cy-en 33.0
+en-tl 26.6
+en-crs 45.2
+en-hil 49.4
+ny-en 44.2
+sk-en 42.2
+sv-ZH 24.2
+crs-en 42.9
+ee-en 21.2
+efi-en 35.4
+en-iso 35.7
+en-ln 36.7
+en-rw 13.8
+en-sw 24.2
+fr-ln 30.5
+lg-en 5.4
+bg-es 24.5
+bzs-es 28.1
+de-et 20.2
+en-bi 36.4
+en-efi 38.0
+en-guw 45.7
+en-loz 40.1
+en-ny 26.8
+en-sn 38.0
+loz-en 42.1
+st-en 45.7
+sv-ru 46.6
+ti-en 30.4
+uk-en 64.1
+af-de 48.6
+bg-fi 23.7
+bg-fr 20.9
+en-ha 17.6
+en-pon 32.4
+guw-en 44.8
+ig-en 46.3
+ilo-en 35.4
+ln-en 35.9
+rw-en 49.8
+swc-en 41.1
+af-fi 32.3
+ceb-sv 35.5
+en-ber 29.7
+en-fj 62.5
+en-gaa 39.9
+en-gil 38.8
+en-lg 5.7
+en-mg 35.5
+en-ml 19.1
+en-ti 25.3
+en-ts 43.4
+fi-sv 54.7
+ga-en 50.1
+lua-en 34.4
+mg-en 50.2
+ml-en 42.7
+pon-en 34.1
+sn-en 51.8
+tiv-en 31.5
+ts-en 44.0
+tvl-en 37.3
+bem-sv 25.6
+ber-fr 60.2
+de-pon 21.0
+en-ga 35.6
+en-gv 70.1
+en-ilo 33.2
+en-is 25.3
+en-kqn 33.1
+en-kwy 33.6
+en-mt 25.0
+en-pag 37.9
+en-rnd 34.5
+en-run 34.2
+en-toi 32.8
+en-tvl 46.9
+es-el 48.6
+es-gl 63.8
+gil-en 36.0
+gl-en 42.5
+ha-en 39.0
+hil-en 49.2
+is-en 51.4
+ja-de 30.1
+kqn-en 32.6
+lue-en 31.7
+lus-en 37.0
+mh-en 36.5
+niu-en 46.1
+pag-en 42.4
+sg-en 32.0
+tll-en 34.5
+to-en 49.3
+xh-en 45.8
+af-fr 35.3
+ase-es 31.7
+ase-fr 37.8
+ase-sv 39.7
+bcl-de 30.3
+bcl-es 37.0
+bcl-fi 33.3
+bcl-fr 35.0
+bem-es 22.8
+bem-fi 22.8
+ber-es 33.8
+bg-sv 29.1
+bzs-fi 24.7
+ca-de 36.2
+ceb-fr 30.0
+chk-es 20.8
+crs-fr 29.4
+cs-de 51.6
+cs-fr 21.0
+csn-es 87.4
+de-lt 37.9
+de-pap 25.6
+de-pl 41.2
+en-ho 33.9
+en-kg 39.6
+en-lu 34.1
+en-lua 35.3
+en-lue 30.1
+en-lus 36.8
+en-mfe 32.1
+en-mh 29.7
+en-niu 53.0
+en-sg 37.0
+en-sm 40.1
+en-sq 46.5
+en-tiv 31.6
+en-tll 33.6
+eo-en 54.8
+es-NORWAY 31.6
+fj-en 79.7
+gaa-en 41.0
+ho-en 26.8
+ht-en 57.0
+iso-en 35.5
+it-es 61.2
+ja-es 34.6
+ja-fr 33.6
+kg-en 35.4
+kwy-en 31.6
+lu-en 35.7
+mfe-en 39.9
+mk-en 59.8
+pis-en 33.3
+rnd-en 37.8
+run-en 42.7
+sm-en 36.1
+sq-en 58.4
+toi-en 39.0
+tr-es 56.3
+af-es 35.7
+af-sv 40.4
+am-sv 21.0
+ar-de 43.0
+ar-fr 43.5
+ase-de 27.2
+ase-en 99.5
+bcl-sv 38.0
+bem-fr 25.0
+bi-es 21.1
+bi-fr 21.5
+bi-sv 22.7
+bzs-fr 30.0
+bzs-sv 30.7
+ca-fr 50.4
+ceb-fi 27.4
+crs-de 20.4
+crs-es 26.1
+crs-fi 25.6
+crs-sv 29.3
+cs-fi 25.5
+cs-sv 30.6
+csg-es 93.1
+de-bi 25.7
+de-crs 24.1
+de-da 57.2
+de-efi 24.2
+de-fj 24.6
+efi-fi 23.6
+en-ht 45.2
+en-kwn 27.6
+en-nso 52.2
+en-pis 38.3
+en-swc 40.1
+en-to 56.3
+en-tpi 38.7
+es-es 51.7
+et-de 22.4
+fi-tr 31.6
+fr-pl 40.7
+fr-swc 28.2
+gv-en 38.9
+nso-en 48.6
+pap-en 63.2
+sv-to 41.8
+tpi-en 29.1
+yo-en 33.8
+ceb-es 31.6
+ch_group-de None
+chk-fr 22.4
+chk-sv 23.6
+da-es 53.7
+da-fi 39.0
+da-fr 62.2
+de-af 49.9
+de-bcl 34.6
+de-ca 34.0
+de-eo 48.6
+de-gil 24.0
+de-ha 20.7
+de-he 36.6
+de-hil 33.9
+de-hr 42.6
+de-hu 34.3
+de-ilo 29.8
+de-is 26.9
+de-iso 21.4
+de-ln 26.7
+de-lua 23.1
+de-mt 25.0
+de-pag 24.3
+ee-es 26.4
+en-kj 29.6
+en-mos 26.9
+en-ng 24.8
+en-pap 52.8
+en-ro 45.3
+en-ss 25.7
+en-tw 38.2
+en-xh 37.9
+es-war 31.7
+fi-NORWAY 34.2
+fi-crs 29.6
+fr-rw 25.5
+kj-en 30.3
+kwn-en 27.5
+lg-fr 23.7
+ln-fr 28.4
+lt-de 45.2
+lu-sv 25.4
+lun-en 30.6
+lv-en 53.3
+nso-sv 34.3
+rw-fr 26.7
+sg-fr 24.9
+sv-xh 26.7
+sv-yap 27.3
+th-fr 20.4
+uk-sv 27.8
+umb-en 27.5
+da-de 57.4
+de-ase 30.4
+de-bzs 21.0
+de-cs 42.2
+de-ee 24.6
+de-fi 40.0
+de-gaa 26.3
+de-guw 27.1
+de-ho 22.6
+de-ht 21.8
+de-ig 25.3
+de-kg 24.4
+de-loz 27.7
+de-niu 28.4
+de-nl 52.8
+de-nso 31.1
+de-ny 21.4
+de-pis 26.0
+ee-de 22.3
+ee-fi 25.0
+ee-fr 27.1
+ee-sv 28.9
+efi-de 21.0
+efi-fr 25.1
+efi-sv 26.8
+el-fi 25.3
+el-sv 23.6
+en-lun 28.9
+en-luo 27.6
+en-nyk 26.6
+en-om 21.8
+en-tdt 23.8
+en-ty 46.8
+en-umb 28.6
+eo-de 45.5
+eo-es 44.2
+eo-fr 50.9
+eo-sv 25.7
+es-aed 89.2
+es-af 36.6
+es-ase 31.5
+es-bcl 37.1
+es-ber 21.8
+es-bg 21.0
+es-bi 28.0
+es-bzs 26.4
+es-ceb 33.9
+es-crs 26.4
+es-cs 46.4
+es-csg 91.2
+es-csn 87.8
+es-da 55.7
+es-ee 25.6
+es-efi 24.6
+es-eo 44.7
+es-et 20.7
+es-fi 44.4
+es-fj 24.8
+es-gaa 27.8
+es-gil 23.8
+es-guw 28.6
+es-ha 20.6
+es-he 44.3
+es-hil 35.8
+es-ho 22.8
+es-hr 21.7
+es-ht 23.3
+es-id 21.1
+es-ig 27.0
+es-ilo 31.0
+es-is 22.3
+es-iso 22.4
+es-kg 25.6
+es-ln 27.1
+es-loz 28.6
+es-lua 23.4
+es-lus 20.9
+es-mfs 88.6
+es-mk 24.1
+es-mt 28.1
+es-niu 29.9
+es-nl 50.6
+es-nso 33.2
+es-ny 22.9
+es-pag 25.3
+es-pap 28.2
+es-pis 27.1
+es-pl 44.6
+es-pon 21.6
+es-prl 92.2
+es-ro 45.7
+es-rw 22.6
+es-sg 24.8
+es-sl 21.7
+es-sm 25.5
+es-sn 23.6
+es-srn 28.7
+es-st 35.5
+es-swc 26.0
+es-tll 20.7
+es-tn 32.2
+es-to 35.7
+es-tpi 27.0
+es-tvl 28.3
+es-tw 26.3
+es-ty 37.3
+es-tzo 22.6
+es-ve 21.7
+es-wls 22.9
+es-xh 25.0
+es-yo 22.3
+es-yua 23.6
+es-zai 20.8
+et-es 27.2
+et-fi 26.6
+et-fr 26.2
+et-sv 28.9
+fi-af 39.3
+fi-bcl 38.4
+fi-bem 21.4
+fi-bg 27.8
+fi-bzs 27.2
+fi-ceb 35.1
+fi-cs 25.0
+fi-ee 28.0
+fi-efi 26.6
+fi-el 27.1
+fi-es 51.5
+fi-et 25.2
+fi-fi 23.3
+fi-fj 26.6
+fi-fr 50.7
+fi-fse 81.9
+fi-gaa 30.5
+fi-gil 28.3
+fi-guw 32.4
+fi-ha 24.2
+fi-he 20.7
+fi-hil 38.7
+fi-ho 25.7
+fi-hr 23.5
+fi-ht 27.1
+fi-hu 50.4
+fi-id 33.8
+fi-ig 28.5
+fi-ilo 32.1
+fi-is 25.2
+fi-iso 26.0
+fi-it 42.7
+fi-kg 29.5
+fi-kqn 22.3
+fi-lg 21.7
+fi-ln 29.2
+fi-lu 22.9
+fi-lua 26.6
+fi-lue 22.4
+fi-lus 26.3
+fi-lv 20.6
+fi-mfe 22.6
+fi-mg 21.7
+fi-mh 20.8
+fi-mk 28.9
+fi-mos 21.4
+fi-mt 29.9
+fi-niu 35.3
+fi-nl 30.5
+fi-nso 35.8
+fi-ny 22.6
+fi-pag 28.0
+fi-pap 27.3
+fi-pis 27.5
+fi-pon 23.7
+fi-ro 27.0
+fi-run 23.2
+fi-rw 25.3
+fi-sg 29.3
+fi-sk 28.1
+fi-sl 24.1
+fi-sm 24.0
+fi-sn 25.3
+fi-sq 32.0
+fi-srn 29.2
+fi-st 37.1
+fi-sw 29.9
+fi-swc 27.5
+fi-tiv 23.6
+fi-tll 23.6
+fi-tn 34.5
+fi-to 38.3
+fi-toi 22.0
+fi-tpi 30.5
+fi-ts 33.6
+fi-tvl 33.6
+fi-tw 29.2
+fi-ty 39.7
+fi-uk 23.3
+fi-ve 26.0
+fi-war 35.1
+fi-wls 24.7
+fi-xh 25.3
+fi-yap 25.4
+fi-yo 25.8
+fi-zne 22.7
+fi_nb_no_nn_ru_sv_en-SAMI 58.4
+fj-fr 24.0
+fr-af 36.0
+fr-ase 38.5
+fr-bcl 35.9
+fr-bem 22.8
+fr-ber 37.2
+fr-bi 28.4
+fr-bzs 30.2
+fr-ca 43.2
+fr-ceb 32.8
+fr-crs 31.6
+fr-ee 26.3
+fr-efi 26.9
+fr-el 56.2
+fr-eo 52.0
+fr-fj 27.4
+fr-gaa 27.8
+fr-gil 27.9
+fr-guw 31.4
+fr-ha 24.4
+fr-he 39.3
+fr-hil 34.7
+fr-ho 25.4
+fr-hr 20.7
+fr-ht 29.2
+fr-hu 41.3
+fr-id 37.2
+fr-ig 29.0
+fr-ilo 30.6
+fr-iso 26.7
+fr-kg 30.4
+fr-kqn 23.3
+fr-kwy 22.5
+fr-lg 21.7
+fr-loz 30.0
+fr-lu 25.5
+fr-lua 27.3
+fr-lue 23.1
+fr-lus 25.5
+fr-mfe 26.1
+fr-mh 21.7
+fr-mos 21.1
+fr-mt 28.7
+fr-niu 34.5
+fr-nso 33.3
+fr-ny 23.2
+fr-pag 27.0
+fr-pap 27.8
+fr-pis 29.0
+fr-pon 23.9
+fr-rnd 21.8
+fr-ro 42.1
+fr-run 23.8
+fr-sg 29.7
+fr-sk 24.9
+fr-sl 20.1
+fr-sm 28.8
+fr-sn 23.4
+fr-srn 27.4
+fr-st 34.6
+fr-sv 60.1
+fr-tiv 23.5
+fr-tll 24.6
+fr-tn 33.1
+fr-to 37.0
+fr-tpi 30.0
+fr-ts 31.4
+fr-tum 23.0
+fr-tvl 32.6
+fr-tw 27.9
+fr-ty 39.6
+fr-uk 39.4
+fr-ve 26.3
+fr-war 33.7
+fr-wls 27.5
+fr-xh 25.1
+fr-yap 25.8
+fr-yo 25.9
+fr-zne 24.1
+fse-fi 90.2
+gaa-de 23.3
+gaa-es 28.6
+gaa-fi 26.4
+gaa-fr 27.8
+gaa-sv 30.1
+gil-es 21.8
+gil-fi 23.1
+gil-fr 24.9
+gil-sv 25.8
+gl-es 68.7
+guw-de 22.7
+guw-es 27.2
+guw-fi 27.7
+guw-fr 29.7
+guw-sv 31.2
+ha-es 21.8
+ha-fi 21.9
+ha-fr 24.3
+ha-sv 25.8
+he-de 45.5
+he-fi 23.3
+he-sv 28.9
+hil-de 26.4
+hil-fi 29.9
+hr-es 27.9
+hr-fi 25.0
+hr-fr 26.1
+hr-sv 30.5
+ht-es 23.7
+ht-fi 23.3
+ht-fr 28.4
+ht-sv 27.9
+hu-fi 48.2
+hu-fr 50.3
+hu-sv 52.6
+hy-en 29.5
+id-es 21.8
+id-fi 27.4
+id-fr 43.8
+id-sv 32.7
+ig-de 20.1
+ig-es 24.6
+ig-fi 23.5
+ig-fr 25.6
+ig-sv 27.0
+ilo-de 26.1
+ilo-es 30.7
+ilo-fi 27.7
+ilo-sv 31.9
+is-de 47.8
+is-es 26.4
+is-fi 25.0
+is-fr 25.0
+is-sv 30.4
+iso-es 22.4
+iso-fi 23.0
+iso-fr 25.6
+iso-sv 25.0
+it-de 49.4
+it-fr 67.9
+it-sv 56.0
+ja-fi 21.2
+ja-sv 26.1
+ka-en 23.7
+kab-en 27.5
+kg-es 22.4
+kg-fr 26.0
+kg-sv 26.3
+kl-en 35.5
+ko-de 30.2
+ko-es 31.2
+ko-fi 21.9
+ko-sv 26.5
+kqn-es 20.9
+kqn-fr 23.2
+kqn-sv 23.3
+kwy-fr 20.6
+kwy-sv 20.2
+lg-es 22.1
+lg-fi 21.8
+lg-sv 24.5
+ln-de 23.3
+ln-es 26.5
+loz-de 24.3
+loz-es 28.4
+loz-fi 25.1
+loz-fr 28.5
+loz-sv 30.0
+lt-es 23.6
+lt-fr 22.0
+lu-es 22.4
+lu-fi 21.4
+lu-fr 26.4
+lua-es 23.1
+lua-fi 23.5
+lua-fr 25.7
+lua-sv 25.7
+lue-es 22.8
+lue-fi 22.1
+lue-fr 24.1
+lue-sv 23.7
+luo-en 29.1
+lus-es 21.6
+lus-fi 22.6
+lus-fr 25.5
+lus-sv 25.5
+lv-es 21.7
+lv-fi 20.6
+lv-fr 22.1
+lv-sv 22.0
+mfe-es 24.0
+mfs-es 88.9
+mg-es 23.1
+mh-es 23.6
+mh-fi 23.3
+mk-es 27.6
+mk-fi 25.9
+mk-fr 22.3
+mos-en 26.1
+mt-es 27.1
+mt-fi 24.9
+mt-fr 27.2
+mt-sv 30.4
+ng-en 27.3
+niu-de 20.2
+niu-es 24.2
+niu-fi 24.8
+niu-fr 28.1
+niu-sv 29.2
+nl-es 51.6
+nl-fi 28.6
+nl-fr 51.3
+nl-sv 25.0
+nso-de 24.7
+nso-es 29.5
+nso-fi 27.8
+nso-fr 30.7
+ny-de 23.9
+ny-es 27.9
+nyk-en 27.3
+om-en 27.3
+pa-en 29.3
+pag-de 22.8
+pag-es 27.9
+pag-fi 26.7
+pag-sv 29.8
+pap-de 25.0
+pap-es 32.3
+pap-fi 27.7
+pap-fr 31.0
+pis-es 24.1
+pis-fi 21.8
+pis-fr 24.9
+pis-sv 25.9
+pl-de 47.8
+pl-es 46.9
+pl-fr 49.0
+pl-sv 58.9
+pon-es 22.4
+pon-fi 22.2
+pon-fr 24.4
+pon-sv 26.4
+prl-es 93.3
+rnd-fr 22.1
+rnd-sv 21.2
+ro-fi 25.2
+ro-fr 54.5
+ro-sv 31.2
+ru-fi 40.1
+run-es 26.9
+run-sv 30.1
+rw-es 26.2
+rw-sv 29.1
+sg-es 21.3
+sg-fi 22.7
+sg-sv 25.3
+sk-es 29.6
+sk-fi 27.6
+sk-fr 29.4
+sk-sv 33.1
+sl-es 26.3
+sl-fi 23.4
+sl-fr 25.0
+sl-sv 27.8
+sm-es 21.3
+sm-fr 24.6
+sn-es 32.5
+sn-fr 30.8
+sn-sv 35.6
+sq-es 23.9
+sq-sv 36.2
+srn-en 40.3
+srn-es 30.4
+srn-fr 28.9
+srn-sv 32.2
+ss-en 30.9
+ssp-es 89.7
+st-es 31.3
+st-fi 28.8
+st-fr 30.7
+st-sv 33.5
+sv-af 44.4
+sv-ase 40.5
+sv-bcl 39.5
+sv-bem 22.3
+sv-bg 29.6
+sv-bi 30.8
+sv-bzs 29.4
+sv-ceb 39.2
+sv-chk 20.7
+sv-crs 32.4
+sv-cs 27.5
+sv-ee 29.7
+sv-efi 29.4
+sv-el 20.8
+sv-eo 24.0
+sv-es 52.1
+sv-et 23.5
+sv-fi 45.2
+sv-fj 27.8
+sv-fr 59.7
+sv-gaa 31.3
+sv-gil 28.9
+sv-guw 33.5
+sv-ha 26.2
+sv-he 23.1
+sv-hil 38.2
+sv-ho 26.7
+sv-hr 25.7
+sv-ht 28.0
+sv-hu 44.6
+sv-id 35.6
+sv-ig 31.1
+sv-ilo 34.8
+sv-is 27.1
+sv-iso 27.2
+sv-kg 30.7
+sv-kqn 24.0
+sv-kwy 21.4
+sv-lg 22.2
+sv-ln 30.6
+sv-lu 24.8
+sv-lua 27.2
+sv-lue 22.6
+sv-lus 26.7
+sv-lv 20.2
+sv-mfe 24.3
+sv-mh 23.8
+sv-mos 22.4
+sv-mt 32.2
+sv-niu 37.0
+sv-nl 24.3
+sv-nso 37.9
+sv-ny 25.9
+sv-pag 29.3
+sv-pap 31.0
+sv-pis 30.9
+sv-pon 26.0
+sv-rnd 20.3
+sv-ro 29.5
+sv-run 24.4
+sv-rw 26.7
+sv-sg 30.0
+sv-sk 30.7
+sv-sl 25.1
+sv-sm 30.1
+sv-sn 27.4
+sv-sq 34.4
+sv-srn 31.3
+sv-st 38.8
+sv-sv 49.2
+sv-swc 30.1
+sv-tiv 25.2
+sv-tll 24.9
+sv-tn 36.3
+sv-toi 23.2
+sv-tpi 31.4
+sv-ts 34.4
+sv-tum 22.0
+sv-tvl 34.4
+sv-tw 30.7
+sv-ty 40.5
+sv-uk 24.0
+sv-umb 20.4
+sv-ve 26.4
+sv-war 36.7
+sv-wls 29.0
+sv-yo 26.4
+sv-zne 23.8
+swc-es 27.4
+swc-fi 26.0
+swc-fr 28.6
+swc-sv 30.7
+tiv-fr 22.3
+tiv-sv 23.7
+tll-es 22.9
+tll-fi 22.4
+tll-fr 25.2
+tll-sv 25.6
+tn-es 29.1
+tn-fr 29.0
+tn-sv 32.0
+to-es 26.6
+to-fr 27.9
+to-sv 30.7
+toi-es 24.6
+toi-fi 24.5
+toi-fr 26.5
+toi-sv 27.0
+tpi-sv 21.6
+tr-fr 45.3
+tr-sv 26.3
+ts-es 28.1
+ts-fi 27.7
+ts-fr 29.9
+ts-sv 32.6
+tum-en 31.7
+tum-es 22.6
+tum-fr 24.0
+tum-sv 23.3
+tvl-es 21.0
+tvl-fi 22.0
+tvl-fr 24.0
+tvl-sv 24.7
+tw-es 25.9
+tw-fi 25.6
+tw-fr 26.7
+tw-sv 29.0
+ty-es 27.3
+ty-fi 21.7
+ty-fr 30.2
+ty-sv 28.9
+tzo-es 20.8
+uk-es 50.4
+uk-fi 24.4
+uk-fr 52.1
+ve-en 41.3
+ve-es 23.1
+vsl-es 91.9
+wa-en 42.6
+wal-en 22.5
+war-es 28.7
+war-fi 26.9
+war-fr 30.2
+war-sv 31.4
+wls-en 31.8
+wls-fr 22.6
+wls-sv 23.8
+xh-es 32.3
+xh-fr 30.6
+xh-sv 33.1
+yap-en 30.2
+yap-fr 22.2
+yap-sv 22.6
+yo-es 22.0
+yo-fi 21.5
+yo-fr 24.1
+yo-sv 25.2
+zai-es 20.8
+zne-es 21.1
+zne-fi 22.8
+zne-fr 25.3
+zne-sv 25.2
+Original: ('fr-en', 57.5) Other: ('ase', 69.0)
+Original: ('en-de', 47.3) Other: ('da', 58.9)
+Original: ('en-it', 48.2) Other: ('de', 46.3)
+Original: ('en-ROMANCE', 50.1) Other: (None, None)
+Original: ('en-fr', 50.5) Other: ('da', 61.3)
+Original: ('ru-fr', 51.5) Other: ('en', 55.8)
+Original: ('mt-en', 53.3) Other: ('sv', 47.45)
+Original: ('en-ru', 48.4) Other: ('sv', 53.35)
+Original: ('de-en', 55.4) Other: ('ase', 64.95)
+Original: ('en-sv', 60.1) Other: ('fr', 55.3)
+Original: ('ROMANCE-en', 62.2) Other: (None, None)
+Original: ('ru-en', 61.1) Other: ('fr', 54.5)
+Original: ('th-en', 47.2) Other: ('fr', 38.95)
+Original: ('en-nl', 57.1) Other: ('de', 50.05)
+Original: ('sv-th', 21.2) Other: ('sv', 35.2)
+Original: ('nl-en', 60.9) Other: ('fr', 54.4)
+Original: ('it-en', 70.9) Other: ('fr', 62.7)
+Original: ('jap-en', 52.6) Other: (None, None)
+Original: ('en-el', 56.4) Other: ('fr', 53.35)
+Original: ('en-hu', 40.1) Other: ('sv', 52.35)
+Original: ('hi-en', 40.4) Other: (None, None)
+Original: ('ja-en', 41.7) Other: ('fr', 45.55)
+Original: ('sv-en', 64.5) Other: ('ase', 70.0)
+Original: ('en-jap', 42.1) Other: (None, None)
+Original: ('da-en', 63.6) Other: ('fr', 59.85)
+Original: ('ZH-de', 33.4) Other: ('de', 37.05)
+Original: ('de-ZH', 24.4) Other: ('de', 32.55)
+Original: ('en-da', 60.4) Other: ('de', 52.25)
+Original: ('en-id', 38.3) Other: ('sv', 47.85)
+Original: ('es-ca', 68.9) Other: ('es', 60.300000000000004)
+Original: ('ar-en', 49.4) Other: ('fr', 50.5)
+Original: ('id-en', 47.7) Other: ('fr', 50.65)
+Original: ('pl-en', 54.9) Other: ('sv', 61.7)
+Original: ('en-CELTIC', 22.8) Other: (None, None)
+Original: ('fr-es', 53.2) Other: ('ca', 59.050000000000004)
+Original: ('de-fr', 49.2) Other: ('da', 59.7)
+Original: ('cs-en', 58.0) Other: ('de', 53.5)
+Original: ('tr-en', 63.5) Other: ('fr', 51.4)
+Original: ('fr-de', 49.1) Other: ('en', 52.4)
+Original: ('es-de', 50.0) Other: ('da', 56.55)
+Original: ('es-fr', 58.4) Other: ('it', 61.900000000000006)
+Original: ('es-eu', 36.9) Other: ('es', 44.3)
+Original: ('en_el_es_fi-en_el_es_fi', 56.7) Other: ('en_el_es_fi', 56.7)
+Original: ('es-ru', 47.0) Other: ('es', 49.35)
+Original: ('el-fr', 63.0) Other: ('sv', 41.650000000000006)
+Original: ('en-eu', 30.5) Other: (None, None)
+Original: ('de-es', 48.5) Other: ('da', 55.45)
+Original: ('ru-es', 49.4) Other: ('fr', 52.35)
+Original: ('fr-ru', 37.9) Other: ('sv', 53.35)
+Original: ('mr-en', 38.2) Other: (None, None)
+Original: ('ko-en', 39.2) Other: ('sv', 45.5)
+Original: ('en-mk', 52.1) Other: ('fi', 27.299999999999997)
+Original: ('en-cs', 46.1) Other: ('de', 44.75)
+Original: ('en-fi', 25.7) Other: ('sv', 52.650000000000006)
+Original: ('SCANDINAVIA-SCANDINAVIA', 69.2) Other: ('SCANDINAVIA', 69.2)
+Original: ('en-ca', 47.2) Other: ('fr', 46.85)
+Original: ('de-it', 45.3) Other: ('es', 52.2)
+Original: ('aed-es', 89.1) Other: ('es', 70.4)
+Original: ('en-bg', 50.0) Other: ('sv', 44.85)
+Original: ('ZH-fi', 21.6) Other: ('sv', 45.900000000000006)
+Original: ('en-et', 54.0) Other: ('sv', 41.8)
+Original: ('lt-sv', 22.9) Other: ('fr', 41.05)
+Original: ('NORTH_EU-NORTH_EU', 48.1) Other: ('NORTH_EU', 48.1)
+Original: ('fi-en', 31.4) Other: ('sv', 59.6)
+Original: ('ca-en', 51.4) Other: ('fr', 53.95)
+Original: ('bn-en', 49.2) Other: (None, None)
+Original: ('bg-en', 59.4) Other: ('sv', 46.8)
+Original: ('fi-ZH', 23.4) Other: ('sv', 39.45)
+Original: ('af-en', 60.8) Other: ('sv', 52.45)
+Original: ('en-cy', 25.3) Other: (None, None)
+Original: ('en-uk', 50.2) Other: ('fr', 44.95)
+Original: ('en-he', 40.1) Other: ('fr', 44.9)
+Original: ('ZH-sv', 46.6) Other: ('sv', 47.900000000000006)
+Original: ('en-ee', 6.0) Other: ('sv', 44.9)
+Original: ('en-af', 56.1) Other: ('sv', 52.25)
+Original: ('en-mr', 22.0) Other: (None, None)
+Original: ('en-st', 49.8) Other: ('sv', 49.45)
+Original: ('sv-NORWAY', 39.3) Other: ('sv', 44.25)
+Original: ('ca-es', 74.9) Other: ('es', 63.300000000000004)
+Original: ('en-chk', 26.1) Other: ('sv', 40.4)
+Original: ('en-ig', 3.8) Other: ('sv', 45.6)
+Original: ('fi-ru', 46.3) Other: ('sv', 50.650000000000006)
+Original: ('chk-en', 31.2) Other: ('sv', 44.05)
+Original: ('en-eo', 49.5) Other: ('fr', 51.25)
+Original: ('fi-de', 45.2) Other: ('es', 50.75)
+Original: ('bzs-en', 44.5) Other: ('sv', 47.6)
+Original: ('de-de', 40.7) Other: ('da', 57.3)
+Original: ('en-gl', 36.4) Other: (None, None)
+Original: ('eu-en', 46.1) Other: (None, None)
+Original: ('bcl-en', 56.1) Other: ('sv', 51.25)
+Original: ('ceb-en', 52.6) Other: ('sv', 50.0)
+Original: ('de-el', 45.7) Other: ('en', 55.9)
+Original: ('en-bcl', 54.3) Other: ('sv', 49.8)
+Original: ('en-bzs', 43.4) Other: ('sv', 44.75)
+Original: ('en-ceb', 31.3) Other: ('sv', 49.650000000000006)
+Original: ('tn-en', 43.4) Other: ('sv', 48.25)
+Original: ('en-bem', 29.7) Other: ('sv', 41.2)
+Original: ('en-tn', 45.5) Other: ('sv', 48.2)
+Original: ('es-uk', 38.0) Other: ('fr', 48.9)
+Original: ('hu-en', 52.9) Other: ('sv', 58.55)
+Original: ('tl-en', 34.9) Other: (None, None)
+Original: ('en-sk', 36.8) Other: ('sv', 45.4)
+Original: ('bem-en', 33.4) Other: ('sv', 45.05)
+Original: ('ber-en', 37.3) Other: ('fr', 58.85)
+Original: ('bi-en', 30.3) Other: ('sv', 43.6)
+Original: ('es-it', 55.9) Other: ('es', 53.8)
+Original: ('et-en', 59.9) Other: ('sv', 46.7)
+Original: ('eu-es', 48.8) Other: ('es', 50.25)
+Original: ('hu-de', 44.1) Other: ('en', 50.099999999999994)
+Original: ('cy-en', 33.0) Other: (None, None)
+Original: ('en-tl', 26.6) Other: (None, None)
+Original: ('en-crs', 45.2) Other: ('sv', 46.25)
+Original: ('en-hil', 49.4) Other: ('sv', 49.150000000000006)
+Original: ('ny-en', 44.2) Other: ('de', 39.65)
+Original: ('sk-en', 42.2) Other: ('sv', 48.8)
+Original: ('sv-ZH', 24.2) Other: ('sv', 36.7)
+Original: ('crs-en', 42.9) Other: ('sv', 46.9)
+Original: ('ee-en', 21.2) Other: ('sv', 46.7)
+Original: ('efi-en', 35.4) Other: ('sv', 45.65)
+Original: ('en-iso', 35.7) Other: ('sv', 43.65)
+Original: ('en-ln', 36.7) Other: ('sv', 45.35)
+Original: ('en-rw', 13.8) Other: ('sv', 43.4)
+Original: ('en-sw', 24.2) Other: ('fi', 27.799999999999997)
+Original: ('fr-ln', 30.5) Other: ('en', 47.1)
+Original: ('lg-en', 5.4) Other: ('sv', 44.5)
+Original: ('bg-es', 24.5) Other: ('sv', 40.6)
+Original: ('bzs-es', 28.1) Other: ('fr', 41.6)
+Original: ('de-et', 20.2) Other: ('en', 54.7)
+Original: ('en-bi', 36.4) Other: ('sv', 45.45)
+Original: ('en-efi', 38.0) Other: ('sv', 44.75)
+Original: ('en-guw', 45.7) Other: ('sv', 46.8)
+Original: ('en-loz', 40.1) Other: ('fr', 40.25)
+Original: ('en-ny', 26.8) Other: ('sv', 43.0)
+Original: ('en-sn', 38.0) Other: ('sv', 43.75)
+Original: ('loz-en', 42.1) Other: ('sv', 47.25)
+Original: ('st-en', 45.7) Other: ('sv', 49.0)
+Original: ('sv-ru', 46.6) Other: ('en', 56.45)
+Original: ('ti-en', 30.4) Other: (None, None)
+Original: ('uk-en', 64.1) Other: ('fr', 54.8)
+Original: ('af-de', 48.6) Other: ('en', 54.05)
+Original: ('bg-fi', 23.7) Other: ('en', 42.55)
+Original: ('bg-fr', 20.9) Other: ('en', 54.95)
+Original: ('en-ha', 17.6) Other: ('sv', 43.15)
+Original: ('en-pon', 32.4) Other: ('sv', 43.05)
+Original: ('guw-en', 44.8) Other: ('sv', 47.85)
+Original: ('ig-en', 46.3) Other: ('sv', 45.75)
+Original: ('ilo-en', 35.4) Other: ('sv', 48.2)
+Original: ('ln-en', 35.9) Other: ('fr', 42.95)
+Original: ('rw-en', 49.8) Other: ('sv', 46.8)
+Original: ('swc-en', 41.1) Other: ('sv', 47.6)
+Original: ('af-fi', 32.3) Other: ('de', 44.3)
+Original: ('ceb-sv', 35.5) Other: ('en', 56.35)
+Original: ('en-ber', 29.7) Other: ('fr', 43.85)
+Original: ('en-fj', 62.5) Other: ('sv', 43.95)
+Original: ('en-gaa', 39.9) Other: ('sv', 45.7)
+Original: ('en-gil', 38.8) Other: ('sv', 44.5)
+Original: ('en-lg', 5.7) Other: ('sv', 41.15)
+Original: ('en-mg', 35.5) Other: ('fi', 23.7)
+Original: ('en-ml', 19.1) Other: (None, None)
+Original: ('en-ti', 25.3) Other: (None, None)
+Original: ('en-ts', 43.4) Other: ('sv', 47.25)
+Original: ('fi-sv', 54.7) Other: ('fr', 55.400000000000006)
+Original: ('ga-en', 50.1) Other: (None, None)
+Original: ('lua-en', 34.4) Other: ('sv', 45.1)
+Original: ('mg-en', 50.2) Other: (None, None)
+Original: ('ml-en', 42.7) Other: (None, None)
+Original: ('pon-en', 34.1) Other: ('sv', 45.45)
+Original: ('sn-en', 51.8) Other: ('sv', 50.05)
+Original: ('tiv-en', 31.5) Other: ('sv', 44.1)
+Original: ('ts-en', 44.0) Other: ('sv', 48.55)
+Original: ('tvl-en', 37.3) Other: ('sv', 44.6)
+Original: ('bem-sv', 25.6) Other: ('en', 46.75)
+Original: ('ber-fr', 60.2) Other: ('es', 46.099999999999994)
+Original: ('de-pon', 21.0) Other: ('en', 43.9)
+Original: ('en-ga', 35.6) Other: (None, None)
+Original: ('en-gv', 70.1) Other: (None, None)
+Original: ('en-ilo', 33.2) Other: ('sv', 47.45)
+Original: ('en-is', 25.3) Other: ('sv', 43.6)
+Original: ('en-kqn', 33.1) Other: ('sv', 42.05)
+Original: ('en-kwy', 33.6) Other: ('sv', 40.75)
+Original: ('en-mt', 25.0) Other: ('sv', 46.150000000000006)
+Original: ('en-pag', 37.9) Other: ('sv', 44.7)
+Original: ('en-rnd', 34.5) Other: ('sv', 40.2)
+Original: ('en-run', 34.2) Other: ('sv', 42.25)
+Original: ('en-toi', 32.8) Other: ('sv', 41.65)
+Original: ('en-tvl', 46.9) Other: ('sv', 47.25)
+Original: ('es-el', 48.6) Other: ('fr', 57.3)
+Original: ('es-gl', 63.8) Other: ('es', 57.75)
+Original: ('gil-en', 36.0) Other: ('sv', 45.15)
+Original: ('gl-en', 42.5) Other: (None, None)
+Original: ('ha-en', 39.0) Other: ('sv', 45.15)
+Original: ('hil-en', 49.2) Other: ('de', 40.9)
+Original: ('is-en', 51.4) Other: ('de', 51.599999999999994)
+Original: ('ja-de', 30.1) Other: ('en', 44.5)
+Original: ('kqn-en', 32.6) Other: ('sv', 43.9)
+Original: ('lue-en', 31.7) Other: ('sv', 44.1)
+Original: ('lus-en', 37.0) Other: ('sv', 45.0)
+Original: ('mh-en', 36.5) Other: ('fi', 27.35)
+Original: ('niu-en', 46.1) Other: ('sv', 46.85)
+Original: ('pag-en', 42.4) Other: ('sv', 47.15)
+Original: ('sg-en', 32.0) Other: ('sv', 44.9)
+Original: ('tll-en', 34.5) Other: ('sv', 45.05)
+Original: ('to-en', 49.3) Other: ('sv', 47.6)
+Original: ('xh-en', 45.8) Other: ('sv', 48.8)
+Original: ('af-fr', 35.3) Other: ('en', 55.65)
+Original: ('ase-es', 31.7) Other: ('sv', 45.900000000000006)
+Original: ('ase-fr', 37.8) Other: ('en', 75.0)
+Original: ('ase-sv', 39.7) Other: ('en', 79.8)
+Original: ('bcl-de', 30.3) Other: ('en', 51.7)
+Original: ('bcl-es', 37.0) Other: ('sv', 45.05)
+Original: ('bcl-fi', 33.3) Other: ('sv', 41.6)
+Original: ('bcl-fr', 35.0) Other: ('en', 53.3)
+Original: ('bem-es', 22.8) Other: ('fr', 39.1)
+Original: ('bem-fi', 22.8) Other: ('sv', 35.400000000000006)
+Original: ('ber-es', 33.8) Other: ('fr', 56.7)
+Original: ('bg-sv', 29.1) Other: ('en', 59.75)
+Original: ('bzs-fi', 24.7) Other: ('sv', 37.95)
+Original: ('ca-de', 36.2) Other: ('es', 62.45)
+Original: ('ceb-fr', 30.0) Other: ('en', 51.55)
+Original: ('chk-es', 20.8) Other: ('sv', 37.85)
+Original: ('crs-fr', 29.4) Other: ('en', 46.7)
+Original: ('cs-de', 51.6) Other: ('en', 52.65)
+Original: ('cs-fr', 21.0) Other: ('en', 54.25)
+Original: ('csn-es', 87.4) Other: ('es', 69.55000000000001)
+Original: ('de-lt', 37.9) Other: ('de', 39.3)
+Original: ('de-pap', 25.6) Other: ('en', 54.099999999999994)
+Original: ('de-pl', 41.2) Other: ('es', 46.55)
+Original: ('en-ho', 33.9) Other: ('sv', 43.4)
+Original: ('en-kg', 39.6) Other: ('sv', 45.4)
+Original: ('en-lu', 34.1) Other: ('sv', 42.45)
+Original: ('en-lua', 35.3) Other: ('sv', 43.65)
+Original: ('en-lue', 30.1) Other: ('sv', 41.35)
+Original: ('en-lus', 36.8) Other: ('sv', 43.4)
+Original: ('en-mfe', 32.1) Other: ('sv', 42.2)
+Original: ('en-mh', 29.7) Other: ('sv', 41.95)
+Original: ('en-niu', 53.0) Other: ('sv', 48.55)
+Original: ('en-sg', 37.0) Other: ('sv', 45.05)
+Original: ('en-sm', 40.1) Other: ('sv', 45.1)
+Original: ('en-sq', 46.5) Other: ('sv', 47.25)
+Original: ('en-tiv', 31.6) Other: ('sv', 42.65)
+Original: ('en-tll', 33.6) Other: ('sv', 42.5)
+Original: ('eo-en', 54.8) Other: ('fr', 54.2)
+Original: ('es-NORWAY', 31.6) Other: ('es', 41.650000000000006)
+Original: ('fj-en', 79.7) Other: ('fr', 40.75)
+Original: ('gaa-en', 41.0) Other: ('sv', 47.3)
+Original: ('ho-en', 26.8) Other: (None, None)
+Original: ('ht-en', 57.0) Other: ('sv', 46.2)
+Original: ('iso-en', 35.5) Other: ('sv', 44.75)
+Original: ('it-es', 61.2) Other: ('fr', 60.550000000000004)
+Original: ('ja-es', 34.6) Other: ('fr', 43.400000000000006)
+Original: ('ja-fr', 33.6) Other: ('es', 46.5)
+Original: ('kg-en', 35.4) Other: ('sv', 45.4)
+Original: ('kwy-en', 31.6) Other: ('sv', 42.35)
+Original: ('lu-en', 35.7) Other: ('sv', 44.95)
+Original: ('mfe-en', 39.9) Other: (None, None)
+Original: ('mk-en', 59.8) Other: ('fr', 39.9)
+Original: ('pis-en', 33.3) Other: ('sv', 45.2)
+Original: ('rnd-en', 37.8) Other: ('sv', 42.85)
+Original: ('run-en', 42.7) Other: ('sv', 47.3)
+Original: ('sm-en', 36.1) Other: ('fr', 41.05)
+Original: ('sq-en', 58.4) Other: ('sv', 50.35)
+Original: ('toi-en', 39.0) Other: ('sv', 45.75)
+Original: ('tr-es', 56.3) Other: ('es', 54.0)
+Original: ('af-es', 35.7) Other: ('de', 48.55)
+Original: ('af-sv', 40.4) Other: ('en', 60.45)
+Original: ('am-sv', 21.0) Other: ('sv', 35.1)
+Original: ('ar-de', 43.0) Other: ('en', 48.349999999999994)
+Original: ('ar-fr', 43.5) Other: ('en', 49.95)
+Original: ('ase-de', 27.2) Other: ('en', 73.4)
+Original: ('ase-en', 99.5) Other: ('sv', 52.1)
+Original: ('bcl-sv', 38.0) Other: ('en', 58.1)
+Original: ('bem-fr', 25.0) Other: ('sv', 42.650000000000006)
+Original: ('bi-es', 21.1) Other: ('sv', 37.4)
+Original: ('bi-fr', 21.5) Other: ('sv', 41.2)
+Original: ('bi-sv', 22.7) Other: ('en', 45.2)
+Original: ('bzs-fr', 30.0) Other: ('en', 47.5)
+Original: ('bzs-sv', 30.7) Other: ('en', 52.3)
+Original: ('ca-fr', 50.4) Other: ('es', 66.65)
+Original: ('ceb-fi', 27.4) Other: ('sv', 40.35)
+Original: ('crs-de', 20.4) Other: ('en', 45.099999999999994)
+Original: ('crs-es', 26.1) Other: ('fr', 41.3)
+Original: ('crs-fi', 25.6) Other: ('sv', 37.25)
+Original: ('crs-sv', 29.3) Other: ('en', 51.5)
+Original: ('cs-fi', 25.5) Other: ('de', 45.8)
+Original: ('cs-sv', 30.6) Other: ('en', 59.05)
+Original: ('csg-es', 93.1) Other: ('es', 72.4)
+Original: ('de-bi', 25.7) Other: ('en', 45.9)
+Original: ('de-crs', 24.1) Other: ('en', 50.3)
+Original: ('de-da', 57.2) Other: ('en', 57.9)
+Original: ('de-efi', 24.2) Other: ('en', 46.7)
+Original: ('de-fj', 24.6) Other: ('en', 58.95)
+Original: ('efi-fi', 23.6) Other: ('sv', 36.0)
+Original: ('en-ht', 45.2) Other: ('sv', 44.05)
+Original: ('en-kwn', 27.6) Other: (None, None)
+Original: ('en-nso', 52.2) Other: ('sv', 49.0)
+Original: ('en-pis', 38.3) Other: ('sv', 45.5)
+Original: ('en-swc', 40.1) Other: ('sv', 45.1)
+Original: ('en-to', 56.3) Other: ('sv', 50.95)
+Original: ('en-tpi', 38.7) Other: ('sv', 45.75)
+Original: ('es-es', 51.7) Other: ('prl', 92.75)
+Original: ('et-de', 22.4) Other: ('en', 53.599999999999994)
+Original: ('fi-tr', 31.6) Other: ('fi', 27.450000000000003)
+Original: ('fr-pl', 40.7) Other: ('es', 48.900000000000006)
+Original: ('fr-swc', 28.2) Other: ('en', 48.8)
+Original: ('gv-en', 38.9) Other: (None, None)
+Original: ('nso-en', 48.6) Other: ('sv', 49.4)
+Original: ('pap-en', 63.2) Other: ('fr', 44.25)
+Original: ('sv-to', 41.8) Other: ('en', 60.4)
+Original: ('tpi-en', 29.1) Other: ('sv', 43.05)
+Original: ('yo-en', 33.8) Other: ('sv', 44.85)
+Original: ('ceb-es', 31.6) Other: ('sv', 43.8)
+Original: ('chk-fr', 22.4) Other: ('sv', 41.650000000000006)
+Original: ('chk-sv', 23.6) Other: ('en', 45.65)
+Original: ('da-es', 53.7) Other: ('fr', 57.7)
+Original: ('da-fi', 39.0) Other: ('es', 49.05)
+Original: ('da-fr', 62.2) Other: ('en', 57.05)
+Original: ('de-af', 49.9) Other: ('en', 55.75)
+Original: ('de-bcl', 34.6) Other: ('en', 54.849999999999994)
+Original: ('de-ca', 34.0) Other: ('es', 58.7)
+Original: ('de-eo', 48.6) Other: ('en', 52.45)
+Original: ('de-gil', 24.0) Other: ('en', 47.099999999999994)
+Original: ('de-ha', 20.7) Other: ('fr', 36.8)
+Original: ('de-he', 36.6) Other: ('en', 47.75)
+Original: ('de-hil', 33.9) Other: ('en', 52.4)
+Original: ('de-hr', 42.6) Other: ('de', 41.650000000000006)
+Original: ('de-hu', 34.3) Other: ('en', 47.75)
+Original: ('de-ilo', 29.8) Other: ('en', 44.3)
+Original: ('de-is', 26.9) Other: ('en', 40.35)
+Original: ('de-iso', 21.4) Other: ('en', 45.55)
+Original: ('de-ln', 26.7) Other: ('en', 46.05)
+Original: ('de-lua', 23.1) Other: ('en', 45.349999999999994)
+Original: ('de-mt', 25.0) Other: ('en', 40.2)
+Original: ('de-pag', 24.3) Other: ('en', 46.65)
+Original: ('ee-es', 26.4) Other: ('sv', 40.5)
+Original: ('en-kj', 29.6) Other: (None, None)
+Original: ('en-mos', 26.9) Other: ('sv', 41.25)
+Original: ('en-ng', 24.8) Other: (None, None)
+Original: ('en-pap', 52.8) Other: ('sv', 45.55)
+Original: ('en-ro', 45.3) Other: ('fr', 46.3)
+Original: ('en-ss', 25.7) Other: (None, None)
+Original: ('en-tw', 38.2) Other: ('sv', 45.4)
+Original: ('en-xh', 37.9) Other: ('sv', 43.4)
+Original: ('es-war', 31.7) Other: ('fr', 46.05)
+Original: ('fi-NORWAY', 34.2) Other: ('sv', 47.0)
+Original: ('fi-crs', 29.6) Other: ('sv', 43.55)
+Original: ('fr-rw', 25.5) Other: ('sv', 43.4)
+Original: ('kj-en', 30.3) Other: (None, None)
+Original: ('kwn-en', 27.5) Other: (None, None)
+Original: ('lg-fr', 23.7) Other: ('sv', 42.1)
+Original: ('ln-fr', 28.4) Other: ('en', 43.2)
+Original: ('lt-de', 45.2) Other: ('de', 42.95)
+Original: ('lu-sv', 25.4) Other: ('en', 47.900000000000006)
+Original: ('lun-en', 30.6) Other: (None, None)
+Original: ('lv-en', 53.3) Other: ('sv', 43.25)
+Original: ('nso-sv', 34.3) Other: ('en', 54.35)
+Original: ('rw-fr', 26.7) Other: ('en', 50.15)
+Original: ('sg-fr', 24.9) Other: ('sv', 42.5)
+Original: ('sv-xh', 26.7) Other: ('en', 51.2)
+Original: ('sv-yap', 27.3) Other: ('fr', 42.75)
+Original: ('th-fr', 20.4) Other: ('en', 48.85)
+Original: ('uk-sv', 27.8) Other: ('en', 62.099999999999994)
+Original: ('umb-en', 27.5) Other: (None, None)
+Original: ('da-de', 57.4) Other: ('fr', 55.650000000000006)
+Original: ('de-ase', 30.4) Other: ('fr', 43.85)
+Original: ('de-bzs', 21.0) Other: ('en', 49.4)
+Original: ('de-cs', 42.2) Other: ('en', 50.75)
+Original: ('de-ee', 24.6) Other: ('fr', 37.75)
+Original: ('de-fi', 40.0) Other: ('da', 48.1)
+Original: ('de-gaa', 26.3) Other: ('en', 47.65)
+Original: ('de-guw', 27.1) Other: ('en', 50.55)
+Original: ('de-ho', 22.6) Other: ('en', 44.65)
+Original: ('de-ht', 21.8) Other: ('en', 50.3)
+Original: ('de-ig', 25.3) Other: ('fr', 39.1)
+Original: ('de-kg', 24.4) Other: ('en', 47.5)
+Original: ('de-loz', 27.7) Other: ('en', 47.75)
+Original: ('de-niu', 28.4) Other: ('en', 54.2)
+Original: ('de-nl', 52.8) Other: ('en', 56.25)
+Original: ('de-nso', 31.1) Other: ('en', 53.8)
+Original: ('de-ny', 21.4) Other: ('en', 41.1)
+Original: ('de-pis', 26.0) Other: ('en', 46.849999999999994)
+Original: ('ee-de', 22.3) Other: ('es', 38.2)
+Original: ('ee-fi', 25.0) Other: ('sv', 37.05)
+Original: ('ee-fr', 27.1) Other: ('sv', 44.3)
+Original: ('ee-sv', 28.9) Other: ('fr', 43.6)
+Original: ('efi-de', 21.0) Other: ('en', 41.349999999999994)
+Original: ('efi-fr', 25.1) Other: ('sv', 43.25)
+Original: ('efi-sv', 26.8) Other: ('en', 47.75)
+Original: ('el-fi', 25.3) Other: ('sv', 34.400000000000006)
+Original: ('el-sv', 23.6) Other: ('fr', 61.55)
+Original: ('en-lun', 28.9) Other: (None, None)
+Original: ('en-luo', 27.6) Other: (None, None)
+Original: ('en-nyk', 26.6) Other: (None, None)
+Original: ('en-om', 21.8) Other: (None, None)
+Original: ('en-tdt', 23.8) Other: (None, None)
+Original: ('en-ty', 46.8) Other: ('sv', 50.3)
+Original: ('en-umb', 28.6) Other: ('sv', 40.25)
+Original: ('eo-de', 45.5) Other: ('en', 51.05)
+Original: ('eo-es', 44.2) Other: ('fr', 52.05)
+Original: ('eo-fr', 50.9) Other: ('en', 52.65)
+Original: ('eo-sv', 25.7) Other: ('en', 57.45)
+Original: ('es-aed', 89.2) Other: ('es', 70.45)
+Original: ('es-af', 36.6) Other: ('de', 49.95)
+Original: ('es-ase', 31.5) Other: ('fr', 48.45)
+Original: ('es-bcl', 37.1) Other: ('fr', 47.15)
+Original: ('es-ber', 21.8) Other: ('fr', 47.8)
+Original: ('es-bg', 21.0) Other: ('es', 36.35)
+Original: ('es-bi', 28.0) Other: ('fr', 43.4)
+Original: ('es-bzs', 26.4) Other: ('fr', 44.3)
+Original: ('es-ceb', 33.9) Other: ('fr', 45.599999999999994)
+Original: ('es-crs', 26.4) Other: ('fr', 45.0)
+Original: ('es-cs', 46.4) Other: ('es', 49.05)
+Original: ('es-csg', 91.2) Other: ('es', 71.45)
+Original: ('es-csn', 87.8) Other: ('es', 69.75)
+Original: ('es-da', 55.7) Other: ('es', 53.7)
+Original: ('es-ee', 25.6) Other: ('fr', 42.35)
+Original: ('es-efi', 24.6) Other: ('fr', 42.65)
+Original: ('es-eo', 44.7) Other: ('fr', 55.2)
+Original: ('es-et', 20.7) Other: ('es', 36.2)
+Original: ('es-fi', 44.4) Other: ('es', 48.05)
+Original: ('es-fj', 24.8) Other: ('fr', 42.9)
+Original: ('es-gaa', 27.8) Other: ('fr', 43.1)
+Original: ('es-gil', 23.8) Other: ('fr', 43.15)
+Original: ('es-guw', 28.6) Other: ('fr', 44.9)
+Original: ('es-ha', 20.6) Other: ('fr', 41.4)
+Original: ('es-he', 44.3) Other: ('fr', 48.849999999999994)
+Original: ('es-hil', 35.8) Other: ('fr', 46.55)
+Original: ('es-ho', 22.8) Other: ('fr', 41.9)
+Original: ('es-hr', 21.7) Other: ('de', 46.3)
+Original: ('es-ht', 23.3) Other: ('fr', 43.8)
+Original: ('es-id', 21.1) Other: ('fr', 47.8)
+Original: ('es-ig', 27.0) Other: ('fr', 43.7)
+Original: ('es-ilo', 31.0) Other: ('fr', 44.5)
+Original: ('es-is', 22.3) Other: ('de', 38.45)
+Original: ('es-iso', 22.4) Other: ('fr', 42.55)
+Original: ('es-kg', 25.6) Other: ('fr', 44.4)
+Original: ('es-ln', 27.1) Other: ('fr', 44.45)
+Original: ('es-loz', 28.6) Other: ('fr', 44.2)
+Original: ('es-lua', 23.4) Other: ('fr', 42.85)
+Original: ('es-lus', 20.9) Other: ('fr', 41.95)
+Original: ('es-mfs', 88.6) Other: ('es', 70.15)
+Original: ('es-mk', 24.1) Other: ('es', 37.900000000000006)
+Original: ('es-mt', 28.1) Other: ('fr', 43.55)
+Original: ('es-niu', 29.9) Other: ('fr', 46.45)
+Original: ('es-nl', 50.6) Other: ('de', 51.4)
+Original: ('es-nso', 33.2) Other: ('fr', 45.849999999999994)
+Original: ('es-ny', 22.9) Other: ('fr', 40.8)
+Original: ('es-pag', 25.3) Other: ('fr', 42.7)
+Original: ('es-pap', 28.2) Other: ('fr', 43.1)
+Original: ('es-pis', 27.1) Other: ('fr', 43.7)
+Original: ('es-pl', 44.6) Other: ('fr', 49.55)
+Original: ('es-pon', 21.6) Other: ('fr', 41.15)
+Original: ('es-prl', 92.2) Other: ('es', 71.95)
+Original: ('es-ro', 45.7) Other: ('fr', 50.25)
+Original: ('es-rw', 22.6) Other: ('fr', 41.95)
+Original: ('es-sg', 24.8) Other: ('fr', 44.05)
+Original: ('es-sl', 21.7) Other: ('fr', 39.25)
+Original: ('es-sm', 25.5) Other: ('fr', 43.6)
+Original: ('es-sn', 23.6) Other: ('fr', 40.9)
+Original: ('es-srn', 28.7) Other: ('fr', 42.9)
+Original: ('es-st', 35.5) Other: ('fr', 46.5)
+Original: ('es-swc', 26.0) Other: ('fr', 43.3)
+Original: ('es-tll', 20.7) Other: ('fr', 41.5)
+Original: ('es-tn', 32.2) Other: ('fr', 45.75)
+Original: ('es-to', 35.7) Other: ('fr', 47.7)
+Original: ('es-tpi', 27.0) Other: ('fr', 44.2)
+Original: ('es-tvl', 28.3) Other: ('fr', 45.5)
+Original: ('es-tw', 26.3) Other: ('fr', 43.15)
+Original: ('es-ty', 37.3) Other: ('fr', 49.0)
+Original: ('es-tzo', 22.6) Other: ('es', 37.150000000000006)
+Original: ('es-ve', 21.7) Other: ('fr', 42.35)
+Original: ('es-wls', 22.9) Other: ('fr', 42.95)
+Original: ('es-xh', 25.0) Other: ('fr', 41.75)
+Original: ('es-yo', 22.3) Other: ('fr', 42.15)
+Original: ('es-yua', 23.6) Other: ('es', 37.650000000000006)
+Original: ('es-zai', 20.8) Other: ('es', 36.25)
+Original: ('et-es', 27.2) Other: ('sv', 40.5)
+Original: ('et-fi', 26.6) Other: ('en', 42.8)
+Original: ('et-fr', 26.2) Other: ('en', 55.2)
+Original: ('et-sv', 28.9) Other: ('en', 60.0)
+Original: ('fi-af', 39.3) Other: ('sv', 49.55)
+Original: ('fi-bcl', 38.4) Other: ('sv', 47.1)
+Original: ('fi-bem', 21.4) Other: ('sv', 38.5)
+Original: ('fi-bg', 27.8) Other: ('sv', 42.150000000000006)
+Original: ('fi-bzs', 27.2) Other: ('sv', 42.05)
+Original: ('fi-ceb', 35.1) Other: ('sv', 46.95)
+Original: ('fi-cs', 25.0) Other: ('es', 48.95)
+Original: ('fi-ee', 28.0) Other: ('sv', 42.2)
+Original: ('fi-efi', 26.6) Other: ('sv', 42.05)
+Original: ('fi-el', 27.1) Other: ('fr', 53.45)
+Original: ('fi-es', 51.5) Other: ('sv', 53.400000000000006)
+Original: ('fi-et', 25.2) Other: ('en', 42.7)
+Original: ('fi-fi', 23.3) Other: ('fse', 86.05000000000001)
+Original: ('fi-fj', 26.6) Other: ('en', 46.95)
+Original: ('fi-fr', 50.7) Other: ('sv', 57.2)
+Original: ('fi-fse', 81.9) Other: ('fi', 52.6)
+Original: ('fi-gaa', 30.5) Other: ('sv', 43.0)
+Original: ('fi-gil', 28.3) Other: ('sv', 41.8)
+Original: ('fi-guw', 32.4) Other: ('sv', 44.1)
+Original: ('fi-ha', 24.2) Other: ('sv', 40.45)
+Original: ('fi-he', 20.7) Other: ('es', 47.9)
+Original: ('fi-hil', 38.7) Other: ('sv', 46.45)
+Original: ('fi-ho', 25.7) Other: ('sv', 40.7)
+Original: ('fi-hr', 23.5) Other: ('de', 43.900000000000006)
+Original: ('fi-ht', 27.1) Other: ('sv', 41.35)
+Original: ('fi-hu', 50.4) Other: ('sv', 49.650000000000006)
+Original: ('fi-id', 33.8) Other: ('sv', 45.150000000000006)
+Original: ('fi-ig', 28.5) Other: ('sv', 42.900000000000006)
+Original: ('fi-ilo', 32.1) Other: ('sv', 44.75)
+Original: ('fi-is', 25.2) Other: ('sv', 40.900000000000006)
+Original: ('fi-iso', 26.0) Other: ('sv', 40.95)
+Original: ('fi-it', 42.7) Other: ('es', 53.7)
+Original: ('fi-kg', 29.5) Other: ('sv', 42.7)
+Original: ('fi-kqn', 22.3) Other: ('sv', 39.35)
+Original: ('fi-lg', 21.7) Other: ('sv', 38.45)
+Original: ('fi-ln', 29.2) Other: ('sv', 42.650000000000006)
+Original: ('fi-lu', 22.9) Other: ('sv', 39.75)
+Original: ('fi-lua', 26.6) Other: ('sv', 40.95)
+Original: ('fi-lue', 22.4) Other: ('sv', 38.650000000000006)
+Original: ('fi-lus', 26.3) Other: ('sv', 40.7)
+Original: ('fi-lv', 20.6) Other: ('sv', 37.45)
+Original: ('fi-mfe', 22.6) Other: ('sv', 39.5)
+Original: ('fi-mg', 21.7) Other: ('en', 33.45)
+Original: ('fi-mh', 20.8) Other: ('sv', 39.25)
+Original: ('fi-mk', 28.9) Other: ('en', 41.75)
+Original: ('fi-mos', 21.4) Other: ('sv', 38.55)
+Original: ('fi-mt', 29.9) Other: ('sv', 43.45)
+Original: ('fi-niu', 35.3) Other: ('sv', 45.85)
+Original: ('fi-nl', 30.5) Other: ('es', 51.05)
+Original: ('fi-nso', 35.8) Other: ('sv', 46.3)
+Original: ('fi-ny', 22.6) Other: ('sv', 40.3)
+Original: ('fi-pag', 28.0) Other: ('sv', 42.0)
+Original: ('fi-pap', 27.3) Other: ('sv', 42.85)
+Original: ('fi-pis', 27.5) Other: ('sv', 42.8)
+Original: ('fi-pon', 23.7) Other: ('sv', 40.35)
+Original: ('fi-ro', 27.0) Other: ('es', 48.6)
+Original: ('fi-run', 23.2) Other: ('sv', 39.55)
+Original: ('fi-rw', 25.3) Other: ('sv', 40.7)
+Original: ('fi-sg', 29.3) Other: ('sv', 42.35)
+Original: ('fi-sk', 28.1) Other: ('sv', 42.7)
+Original: ('fi-sl', 24.1) Other: ('sv', 39.900000000000006)
+Original: ('fi-sm', 24.0) Other: ('sv', 42.400000000000006)
+Original: ('fi-sn', 25.3) Other: ('sv', 41.05)
+Original: ('fi-sq', 32.0) Other: ('sv', 44.55)
+Original: ('fi-srn', 29.2) Other: ('sv', 43.0)
+Original: ('fi-st', 37.1) Other: ('sv', 46.75)
+Original: ('fi-sw', 29.9) Other: ('en', 27.799999999999997)
+Original: ('fi-swc', 27.5) Other: ('sv', 42.400000000000006)
+Original: ('fi-tiv', 23.6) Other: ('sv', 39.95)
+Original: ('fi-tll', 23.6) Other: ('sv', 39.8)
+Original: ('fi-tn', 34.5) Other: ('sv', 45.5)
+Original: ('fi-to', 38.3) Other: ('sv', 48.25)
+Original: ('fi-toi', 22.0) Other: ('sv', 38.95)
+Original: ('fi-tpi', 30.5) Other: ('sv', 43.05)
+Original: ('fi-ts', 33.6) Other: ('sv', 44.55)
+Original: ('fi-tvl', 33.6) Other: ('sv', 44.55)
+Original: ('fi-tw', 29.2) Other: ('sv', 42.7)
+Original: ('fi-ty', 39.7) Other: ('sv', 47.6)
+Original: ('fi-uk', 23.3) Other: ('fr', 45.05)
+Original: ('fi-ve', 26.0) Other: ('sv', 40.55)
+Original: ('fi-war', 35.1) Other: ('sv', 45.7)
+Original: ('fi-wls', 24.7) Other: ('sv', 41.85)
+Original: ('fi-xh', 25.3) Other: ('sv', 40.7)
+Original: ('fi-yap', 25.4) Other: ('sv', 41.0)
+Original: ('fi-yo', 25.8) Other: ('sv', 40.55)
+Original: ('fi-zne', 22.7) Other: ('sv', 39.25)
+Original: ('fi_nb_no_nn_ru_sv_en-SAMI', 58.4) Other: (None, None)
+Original: ('fj-fr', 24.0) Other: ('en', 65.1)
+Original: ('fr-af', 36.0) Other: ('en', 56.8)
+Original: ('fr-ase', 38.5) Other: ('sv', 50.3)
+Original: ('fr-bcl', 35.9) Other: ('en', 55.9)
+Original: ('fr-bem', 22.8) Other: ('en', 43.6)
+Original: ('fr-ber', 37.2) Other: ('en', 43.6)
+Original: ('fr-bi', 28.4) Other: ('en', 46.95)
+Original: ('fr-bzs', 30.2) Other: ('en', 50.45)
+Original: ('fr-ca', 43.2) Other: ('es', 61.050000000000004)
+Original: ('fr-ceb', 32.8) Other: ('sv', 49.650000000000006)
+Original: ('fr-crs', 31.6) Other: ('en', 51.35)
+Original: ('fr-ee', 26.3) Other: ('sv', 44.9)
+Original: ('fr-efi', 26.9) Other: ('en', 47.75)
+Original: ('fr-el', 56.2) Other: ('en', 56.95)
+Original: ('fr-eo', 52.0) Other: ('en', 53.5)
+Original: ('fr-fj', 27.4) Other: ('en', 60.0)
+Original: ('fr-gaa', 27.8) Other: ('en', 48.7)
+Original: ('fr-gil', 27.9) Other: ('en', 48.15)
+Original: ('fr-guw', 31.4) Other: ('en', 51.6)
+Original: ('fr-ha', 24.4) Other: ('sv', 43.15)
+Original: ('fr-he', 39.3) Other: ('en', 48.8)
+Original: ('fr-hil', 34.7) Other: ('en', 53.45)
+Original: ('fr-ho', 25.4) Other: ('en', 45.7)
+Original: ('fr-hr', 20.7) Other: ('de', 45.85)
+Original: ('fr-ht', 29.2) Other: ('en', 51.35)
+Original: ('fr-hu', 41.3) Other: ('sv', 52.35)
+Original: ('fr-id', 37.2) Other: ('en', 47.9)
+Original: ('fr-ig', 29.0) Other: ('sv', 45.6)
+Original: ('fr-ilo', 30.6) Other: ('sv', 47.45)
+Original: ('fr-iso', 26.7) Other: ('en', 46.6)
+Original: ('fr-kg', 30.4) Other: ('en', 48.55)
+Original: ('fr-kqn', 23.3) Other: ('en', 45.3)
+Original: ('fr-kwy', 22.5) Other: ('en', 45.55)
+Original: ('fr-lg', 21.7) Other: ('sv', 41.15)
+Original: ('fr-loz', 30.0) Other: ('en', 48.8)
+Original: ('fr-lu', 25.5) Other: ('en', 45.8)
+Original: ('fr-lua', 27.3) Other: ('en', 46.4)
+Original: ('fr-lue', 23.1) Other: ('en', 43.8)
+Original: ('fr-lus', 25.5) Other: ('en', 47.15)
+Original: ('fr-mfe', 26.1) Other: ('en', 44.8)
+Original: ('fr-mh', 21.7) Other: ('en', 43.6)
+Original: ('fr-mos', 21.1) Other: ('en', 42.2)
+Original: ('fr-mt', 28.7) Other: ('sv', 46.150000000000006)
+Original: ('fr-niu', 34.5) Other: ('en', 55.25)
+Original: ('fr-nso', 33.3) Other: ('en', 54.85)
+Original: ('fr-ny', 23.2) Other: ('sv', 43.0)
+Original: ('fr-pag', 27.0) Other: ('en', 47.7)
+Original: ('fr-pap', 27.8) Other: ('en', 55.15)
+Original: ('fr-pis', 29.0) Other: ('en', 47.9)
+Original: ('fr-pon', 23.9) Other: ('en', 44.95)
+Original: ('fr-rnd', 21.8) Other: ('en', 46.0)
+Original: ('fr-ro', 42.1) Other: ('en', 51.4)
+Original: ('fr-run', 23.8) Other: ('en', 45.85)
+Original: ('fr-sg', 29.7) Other: ('en', 47.25)
+Original: ('fr-sk', 24.9) Other: ('en', 47.15)
+Original: ('fr-sl', 20.1) Other: ('sv', 42.6)
+Original: ('fr-sm', 28.8) Other: ('en', 48.8)
+Original: ('fr-sn', 23.4) Other: ('en', 47.75)
+Original: ('fr-srn', 27.4) Other: ('sv', 45.7)
+Original: ('fr-st', 34.6) Other: ('en', 53.65)
+Original: ('fr-sv', 60.1) Other: ('en', 58.8)
+Original: ('fr-tiv', 23.5) Other: ('en', 44.55)
+Original: ('fr-tll', 24.6) Other: ('en', 45.55)
+Original: ('fr-tn', 33.1) Other: ('en', 51.5)
+Original: ('fr-to', 37.0) Other: ('en', 56.9)
+Original: ('fr-tpi', 30.0) Other: ('en', 48.1)
+Original: ('fr-ts', 31.4) Other: ('en', 50.45)
+Original: ('fr-tum', 23.0) Other: ('sv', 41.05)
+Original: ('fr-tvl', 32.6) Other: ('en', 52.2)
+Original: ('fr-tw', 27.9) Other: ('en', 47.85)
+Original: ('fr-ty', 39.6) Other: ('en', 52.15)
+Original: ('fr-uk', 39.4) Other: ('en', 53.85)
+Original: ('fr-ve', 26.3) Other: ('sv', 43.25)
+Original: ('fr-war', 33.7) Other: ('sv', 48.400000000000006)
+Original: ('fr-wls', 27.5) Other: ('sv', 44.55)
+Original: ('fr-xh', 25.1) Other: ('en', 47.7)
+Original: ('fr-yap', 25.8) Other: ('sv', 43.7)
+Original: ('fr-yo', 25.9) Other: ('sv', 43.25)
+Original: ('fr-zne', 24.1) Other: ('sv', 41.95)
+Original: ('fse-fi', 90.2) Other: ('fi', 56.75)
+Original: ('gaa-de', 23.3) Other: ('en', 44.15)
+Original: ('gaa-es', 28.6) Other: ('sv', 41.1)
+Original: ('gaa-fi', 26.4) Other: ('sv', 37.650000000000006)
+Original: ('gaa-fr', 27.8) Other: ('en', 45.75)
+Original: ('gaa-sv', 30.1) Other: ('en', 50.55)
+Original: ('gil-es', 21.8) Other: ('fr', 39.05)
+Original: ('gil-fi', 23.1) Other: ('sv', 35.5)
+Original: ('gil-fr', 24.9) Other: ('en', 43.25)
+Original: ('gil-sv', 25.8) Other: ('en', 48.05)
+Original: ('gl-es', 68.7) Other: ('es', 60.2)
+Original: ('guw-de', 22.7) Other: ('en', 46.05)
+Original: ('guw-es', 27.2) Other: ('sv', 41.65)
+Original: ('guw-fi', 27.7) Other: ('sv', 38.2)
+Original: ('guw-fr', 29.7) Other: ('en', 47.65)
+Original: ('guw-sv', 31.2) Other: ('en', 52.45)
+Original: ('ha-es', 21.8) Other: ('sv', 38.95)
+Original: ('ha-fi', 21.9) Other: ('sv', 35.5)
+Original: ('ha-fr', 24.3) Other: ('en', 44.75)
+Original: ('ha-sv', 25.8) Other: ('en', 49.55)
+Original: ('he-de', 45.5) Other: ('de', 43.1)
+Original: ('he-fi', 23.3) Other: ('de', 42.75)
+Original: ('he-sv', 28.9) Other: ('sv', 39.05)
+Original: ('hil-de', 26.4) Other: ('en', 48.25)
+Original: ('hil-fi', 29.9) Other: ('en', 37.45)
+Original: ('hr-es', 27.9) Other: ('sv', 41.3)
+Original: ('hr-fi', 25.0) Other: ('sv', 37.85)
+Original: ('hr-fr', 26.1) Other: ('sv', 45.1)
+Original: ('hr-sv', 30.5) Other: ('fr', 43.1)
+Original: ('ht-es', 23.7) Other: ('fr', 40.8)
+Original: ('ht-fi', 23.3) Other: ('en', 41.35)
+Original: ('ht-fr', 28.4) Other: ('en', 53.75)
+Original: ('ht-sv', 27.9) Other: ('en', 58.55)
+Original: ('hu-fi', 48.2) Other: ('sv', 48.900000000000006)
+Original: ('hu-fr', 50.3) Other: ('sv', 56.150000000000006)
+Original: ('hu-sv', 52.6) Other: ('en', 56.5)
+Original: ('hy-en', 29.5) Other: (None, None)
+Original: ('id-es', 21.8) Other: ('fr', 48.5)
+Original: ('id-fi', 27.4) Other: ('sv', 38.95)
+Original: ('id-fr', 43.8) Other: ('en', 49.1)
+Original: ('id-sv', 32.7) Other: ('en', 53.900000000000006)
+Original: ('ig-de', 20.1) Other: ('en', 46.8)
+Original: ('ig-es', 24.6) Other: ('sv', 39.55)
+Original: ('ig-fi', 23.5) Other: ('sv', 36.1)
+Original: ('ig-fr', 25.6) Other: ('en', 48.4)
+Original: ('ig-sv', 27.0) Other: ('en', 53.2)
+Original: ('ilo-de', 26.1) Other: ('en', 41.349999999999994)
+Original: ('ilo-es', 30.7) Other: ('sv', 42.0)
+Original: ('ilo-fi', 27.7) Other: ('sv', 38.55)
+Original: ('ilo-sv', 31.9) Other: ('en', 47.75)
+Original: ('is-de', 47.8) Other: ('en', 49.349999999999994)
+Original: ('is-es', 26.4) Other: ('de', 48.15)
+Original: ('is-fi', 25.0) Other: ('de', 43.9)
+Original: ('is-fr', 25.0) Other: ('en', 50.95)
+Original: ('is-sv', 30.4) Other: ('en', 55.75)
+Original: ('iso-es', 22.4) Other: ('fr', 39.400000000000006)
+Original: ('iso-fi', 23.0) Other: ('sv', 35.1)
+Original: ('iso-fr', 25.6) Other: ('en', 43.0)
+Original: ('iso-sv', 25.0) Other: ('en', 47.8)
+Original: ('it-de', 49.4) Other: ('en', 59.1)
+Original: ('it-fr', 67.9) Other: ('en', 60.7)
+Original: ('it-sv', 56.0) Other: ('en', 65.5)
+Original: ('ja-fi', 21.2) Other: ('es', 39.5)
+Original: ('ja-sv', 26.1) Other: ('en', 50.900000000000006)
+Original: ('ka-en', 23.7) Other: (None, None)
+Original: ('kab-en', 27.5) Other: (None, None)
+Original: ('kg-es', 22.4) Other: ('fr', 39.6)
+Original: ('kg-fr', 26.0) Other: ('sv', 43.0)
+Original: ('kg-sv', 26.3) Other: ('en', 47.75)
+Original: ('kl-en', 35.5) Other: (None, None)
+Original: ('ko-de', 30.2) Other: ('en', 43.25)
+Original: ('ko-es', 31.2) Other: ('es', 41.45)
+Original: ('ko-fi', 21.9) Other: ('es', 37.8)
+Original: ('ko-sv', 26.5) Other: ('en', 49.650000000000006)
+Original: ('kqn-es', 20.9) Other: ('fr', 38.2)
+Original: ('kqn-fr', 23.2) Other: ('en', 41.55)
+Original: ('kqn-sv', 23.3) Other: ('en', 46.35)
+Original: ('kwy-fr', 20.6) Other: ('en', 41.05)
+Original: ('kwy-sv', 20.2) Other: ('en', 45.85)
+Original: ('lg-es', 22.1) Other: ('fr', 38.45)
+Original: ('lg-fi', 21.8) Other: ('sv', 34.85)
+Original: ('lg-sv', 24.5) Other: ('fr', 41.9)
+Original: ('ln-de', 23.3) Other: ('en', 41.599999999999994)
+Original: ('ln-es', 26.5) Other: ('fr', 40.8)
+Original: ('loz-de', 24.3) Other: ('en', 44.7)
+Original: ('loz-es', 28.4) Other: ('sv', 41.05)
+Original: ('loz-fi', 25.1) Other: ('sv', 37.6)
+Original: ('loz-fr', 28.5) Other: ('en', 46.3)
+Original: ('loz-sv', 30.0) Other: ('en', 51.1)
+Original: ('lt-es', 23.6) Other: ('de', 46.85)
+Original: ('lt-fr', 22.0) Other: ('de', 47.2)
+Original: ('lu-es', 22.4) Other: ('fr', 39.8)
+Original: ('lu-fi', 21.4) Other: ('sv', 35.3)
+Original: ('lu-fr', 26.4) Other: ('en', 43.1)
+Original: ('lua-es', 23.1) Other: ('fr', 39.45)
+Original: ('lua-fi', 23.5) Other: ('sv', 35.45)
+Original: ('lua-fr', 25.7) Other: ('sv', 42.7)
+Original: ('lua-sv', 25.7) Other: ('en', 47.25)
+Original: ('lue-es', 22.8) Other: ('fr', 38.650000000000006)
+Original: ('lue-fi', 22.1) Other: ('sv', 34.45)
+Original: ('lue-fr', 24.1) Other: ('sv', 41.7)
+Original: ('lue-sv', 23.7) Other: ('en', 45.9)
+Original: ('luo-en', 29.1) Other: (None, None)
+Original: ('lus-es', 21.6) Other: ('fr', 39.35)
+Original: ('lus-fi', 22.6) Other: ('sv', 35.35)
+Original: ('lus-fr', 25.5) Other: ('en', 43.75)
+Original: ('lus-sv', 25.5) Other: ('en', 48.55)
+Original: ('lv-es', 21.7) Other: ('fr', 37.650000000000006)
+Original: ('lv-fi', 20.6) Other: ('en', 39.5)
+Original: ('lv-fr', 22.1) Other: ('en', 51.9)
+Original: ('lv-sv', 22.0) Other: ('en', 56.7)
+Original: ('mfe-es', 24.0) Other: ('es', 37.85)
+Original: ('mfs-es', 88.9) Other: ('es', 70.30000000000001)
+Original: ('mg-es', 23.1) Other: ('es', 37.400000000000006)
+Original: ('mh-es', 23.6) Other: ('es', 37.650000000000006)
+Original: ('mh-fi', 23.3) Other: ('es', 34.0)
+Original: ('mk-es', 27.6) Other: ('es', 39.650000000000006)
+Original: ('mk-fi', 25.9) Other: ('en', 42.75)
+Original: ('mk-fr', 22.3) Other: ('en', 55.15)
+Original: ('mos-en', 26.1) Other: (None, None)
+Original: ('mt-es', 27.1) Other: ('sv', 41.25)
+Original: ('mt-fi', 24.9) Other: ('en', 39.5)
+Original: ('mt-fr', 27.2) Other: ('en', 51.9)
+Original: ('mt-sv', 30.4) Other: ('en', 56.7)
+Original: ('ng-en', 27.3) Other: (None, None)
+Original: ('niu-de', 20.2) Other: ('en', 46.7)
+Original: ('niu-es', 24.2) Other: ('fr', 40.650000000000006)
+Original: ('niu-fi', 24.8) Other: ('sv', 37.2)
+Original: ('niu-fr', 28.1) Other: ('en', 48.3)
+Original: ('niu-sv', 29.2) Other: ('en', 53.1)
+Original: ('nl-es', 51.6) Other: ('fr', 52.25)
+Original: ('nl-fi', 28.6) Other: ('es', 48.0)
+Original: ('nl-fr', 51.3) Other: ('en', 55.7)
+Original: ('nl-sv', 25.0) Other: ('en', 60.5)
+Original: ('nso-de', 24.7) Other: ('en', 47.95)
+Original: ('nso-es', 29.5) Other: ('sv', 43.2)
+Original: ('nso-fi', 27.8) Other: ('sv', 39.75)
+Original: ('nso-fr', 30.7) Other: ('en', 49.55)
+Original: ('ny-de', 23.9) Other: ('en', 45.75)
+Original: ('ny-es', 27.9) Other: ('es', 39.8)
+Original: ('nyk-en', 27.3) Other: (None, None)
+Original: ('om-en', 27.3) Other: (None, None)
+Original: ('pa-en', 29.3) Other: (None, None)
+Original: ('pag-de', 22.8) Other: ('en', 44.849999999999994)
+Original: ('pag-es', 27.9) Other: ('sv', 40.95)
+Original: ('pag-fi', 26.7) Other: ('sv', 37.5)
+Original: ('pag-sv', 29.8) Other: ('en', 51.25)
+Original: ('pap-de', 25.0) Other: ('en', 55.25)
+Original: ('pap-es', 32.3) Other: ('fr', 42.1)
+Original: ('pap-fi', 27.7) Other: ('en', 44.45)
+Original: ('pap-fr', 31.0) Other: ('en', 56.85)
+Original: ('pis-es', 24.1) Other: ('fr', 39.05)
+Original: ('pis-fi', 21.8) Other: ('sv', 35.55)
+Original: ('pis-fr', 24.9) Other: ('sv', 42.8)
+Original: ('pis-sv', 25.9) Other: ('en', 46.7)
+Original: ('pl-de', 47.8) Other: ('en', 51.099999999999994)
+Original: ('pl-es', 46.9) Other: ('sv', 55.5)
+Original: ('pl-fr', 49.0) Other: ('sv', 59.3)
+Original: ('pl-sv', 58.9) Other: ('en', 57.5)
+Original: ('pon-es', 22.4) Other: ('sv', 39.25)
+Original: ('pon-fi', 22.2) Other: ('sv', 35.8)
+Original: ('pon-fr', 24.4) Other: ('sv', 43.05)
+Original: ('pon-sv', 26.4) Other: ('en', 47.1)
+Original: ('prl-es', 93.3) Other: ('es', 72.5)
+Original: ('rnd-fr', 22.1) Other: ('en', 44.15)
+Original: ('rnd-sv', 21.2) Other: ('en', 48.95)
+Original: ('ro-fi', 25.2) Other: ('sv', 38.2)
+Original: ('ro-fr', 54.5) Other: ('sv', 45.45)
+Original: ('ro-sv', 31.2) Other: ('fr', 57.3)
+Original: ('ru-fi', 40.1) Other: ('es', 46.9)
+Original: ('run-es', 26.9) Other: ('sv', 41.1)
+Original: ('run-sv', 30.1) Other: ('en', 51.400000000000006)
+Original: ('rw-es', 26.2) Other: ('sv', 40.6)
+Original: ('rw-sv', 29.1) Other: ('en', 54.95)
+Original: ('sg-es', 21.3) Other: ('fr', 39.05)
+Original: ('sg-fi', 22.7) Other: ('sv', 35.25)
+Original: ('sg-sv', 25.3) Other: ('en', 46.05)
+Original: ('sk-es', 29.6) Other: ('sv', 42.6)
+Original: ('sk-fi', 27.6) Other: ('sv', 39.150000000000006)
+Original: ('sk-fr', 29.4) Other: ('sv', 46.400000000000006)
+Original: ('sk-sv', 33.1) Other: ('en', 51.150000000000006)
+Original: ('sl-es', 26.3) Other: ('sv', 39.95)
+Original: ('sl-fi', 23.4) Other: ('sv', 36.5)
+Original: ('sl-fr', 25.0) Other: ('sv', 43.75)
+Original: ('sl-sv', 27.8) Other: ('fr', 42.55)
+Original: ('sm-es', 21.3) Other: ('fr', 38.900000000000006)
+Original: ('sm-fr', 24.6) Other: ('en', 43.3)
+Original: ('sn-es', 32.5) Other: ('sv', 43.85)
+Original: ('sn-fr', 30.8) Other: ('en', 51.15)
+Original: ('sn-sv', 35.6) Other: ('en', 55.95)
+Original: ('sq-es', 23.9) Other: ('sv', 44.150000000000006)
+Original: ('sq-sv', 36.2) Other: ('en', 59.25)
+Original: ('srn-en', 40.3) Other: ('sv', 48.35)
+Original: ('srn-es', 30.4) Other: ('sv', 42.150000000000006)
+Original: ('srn-fr', 28.9) Other: ('sv', 45.95)
+Original: ('srn-sv', 32.2) Other: ('en', 50.2)
+Original: ('ss-en', 30.9) Other: (None, None)
+Original: ('ssp-es', 89.7) Other: ('es', 70.7)
+Original: ('st-es', 31.3) Other: ('sv', 42.8)
+Original: ('st-fi', 28.8) Other: ('sv', 39.35)
+Original: ('st-fr', 30.7) Other: ('en', 48.1)
+Original: ('st-sv', 33.5) Other: ('en', 52.900000000000006)
+Original: ('sv-af', 44.4) Other: ('en', 60.3)
+Original: ('sv-ase', 40.5) Other: ('fr', 49.1)
+Original: ('sv-bcl', 39.5) Other: ('en', 59.4)
+Original: ('sv-bem', 22.3) Other: ('en', 47.1)
+Original: ('sv-bg', 29.6) Other: ('en', 57.25)
+Original: ('sv-bi', 30.8) Other: ('en', 50.45)
+Original: ('sv-bzs', 29.4) Other: ('en', 53.95)
+Original: ('sv-ceb', 39.2) Other: ('en', 47.9)
+Original: ('sv-chk', 20.7) Other: ('en', 45.3)
+Original: ('sv-crs', 32.4) Other: ('en', 54.85)
+Original: ('sv-cs', 27.5) Other: ('en', 55.3)
+Original: ('sv-ee', 29.7) Other: ('fr', 43.0)
+Original: ('sv-efi', 29.4) Other: ('en', 51.25)
+Original: ('sv-el', 20.8) Other: ('en', 60.45)
+Original: ('sv-eo', 24.0) Other: ('en', 57.0)
+Original: ('sv-es', 52.1) Other: ('fr', 56.45)
+Original: ('sv-et', 23.5) Other: ('en', 59.25)
+Original: ('sv-fi', 45.2) Other: ('es', 48.25)
+Original: ('sv-fj', 27.8) Other: ('en', 63.5)
+Original: ('sv-fr', 59.7) Other: ('en', 57.5)
+Original: ('sv-gaa', 31.3) Other: ('en', 52.2)
+Original: ('sv-gil', 28.9) Other: ('en', 51.65)
+Original: ('sv-guw', 33.5) Other: ('en', 55.1)
+Original: ('sv-ha', 26.2) Other: ('fr', 42.05)
+Original: ('sv-he', 23.1) Other: ('en', 52.3)
+Original: ('sv-hil', 38.2) Other: ('en', 56.95)
+Original: ('sv-ho', 26.7) Other: ('en', 49.2)
+Original: ('sv-hr', 25.7) Other: ('fr', 40.2)
+Original: ('sv-ht', 28.0) Other: ('en', 54.85)
+Original: ('sv-hu', 44.6) Other: ('en', 52.3)
+Original: ('sv-id', 35.6) Other: ('en', 51.4)
+Original: ('sv-ig', 31.1) Other: ('fr', 44.35)
+Original: ('sv-ilo', 34.8) Other: ('en', 48.85)
+Original: ('sv-is', 27.1) Other: ('en', 44.9)
+Original: ('sv-iso', 27.2) Other: ('en', 50.1)
+Original: ('sv-kg', 30.7) Other: ('en', 52.05)
+Original: ('sv-kqn', 24.0) Other: ('en', 48.8)
+Original: ('sv-kwy', 21.4) Other: ('en', 49.05)
+Original: ('sv-lg', 22.2) Other: ('fr', 40.7)
+Original: ('sv-ln', 30.6) Other: ('en', 50.6)
+Original: ('sv-lu', 24.8) Other: ('en', 49.3)
+Original: ('sv-lua', 27.2) Other: ('en', 49.9)
+Original: ('sv-lue', 22.6) Other: ('en', 47.3)
+Original: ('sv-lus', 26.7) Other: ('en', 50.65)
+Original: ('sv-lv', 20.2) Other: ('sv', 34.7)
+Original: ('sv-mfe', 24.3) Other: ('en', 48.3)
+Original: ('sv-mh', 23.8) Other: ('en', 47.1)
+Original: ('sv-mos', 22.4) Other: ('en', 45.7)
+Original: ('sv-mt', 32.2) Other: ('en', 44.75)
+Original: ('sv-niu', 37.0) Other: ('en', 58.75)
+Original: ('sv-nl', 24.3) Other: ('en', 60.8)
+Original: ('sv-nso', 37.9) Other: ('en', 58.35)
+Original: ('sv-ny', 25.9) Other: ('en', 45.65)
+Original: ('sv-pag', 29.3) Other: ('en', 51.2)
+Original: ('sv-pap', 31.0) Other: ('en', 58.65)
+Original: ('sv-pis', 30.9) Other: ('en', 51.4)
+Original: ('sv-pon', 26.0) Other: ('en', 48.45)
+Original: ('sv-rnd', 20.3) Other: ('en', 49.5)
+Original: ('sv-ro', 29.5) Other: ('en', 54.9)
+Original: ('sv-run', 24.4) Other: ('en', 49.35)
+Original: ('sv-rw', 26.7) Other: ('fr', 42.6)
+Original: ('sv-sg', 30.0) Other: ('en', 50.75)
+Original: ('sv-sk', 30.7) Other: ('en', 50.65)
+Original: ('sv-sl', 25.1) Other: ('fr', 39.900000000000006)
+Original: ('sv-sm', 30.1) Other: ('en', 52.3)
+Original: ('sv-sn', 27.4) Other: ('en', 51.25)
+Original: ('sv-sq', 34.4) Other: ('en', 55.5)
+Original: ('sv-srn', 31.3) Other: ('fr', 43.55)
+Original: ('sv-st', 38.8) Other: ('en', 57.15)
+Original: ('sv-sv', 49.2) Other: ('en', 62.3)
+Original: ('sv-swc', 30.1) Other: ('en', 52.3)
+Original: ('sv-tiv', 25.2) Other: ('en', 48.05)
+Original: ('sv-tll', 24.9) Other: ('en', 49.05)
+Original: ('sv-tn', 36.3) Other: ('en', 55.0)
+Original: ('sv-toi', 23.2) Other: ('en', 48.65)
+Original: ('sv-tpi', 31.4) Other: ('en', 51.6)
+Original: ('sv-ts', 34.4) Other: ('en', 53.95)
+Original: ('sv-tum', 22.0) Other: ('fr', 41.35)
+Original: ('sv-tvl', 34.4) Other: ('en', 55.7)
+Original: ('sv-tw', 30.7) Other: ('en', 51.35)
+Original: ('sv-ty', 40.5) Other: ('en', 55.65)
+Original: ('sv-uk', 24.0) Other: ('en', 57.35)
+Original: ('sv-umb', 20.4) Other: ('en', 46.55)
+Original: ('sv-ve', 26.4) Other: ('fr', 43.0)
+Original: ('sv-war', 36.7) Other: ('fr', 46.7)
+Original: ('sv-wls', 29.0) Other: ('fr', 43.6)
+Original: ('sv-yo', 26.4) Other: ('fr', 42.8)
+Original: ('sv-zne', 23.8) Other: ('fr', 41.900000000000006)
+Original: ('swc-es', 27.4) Other: ('sv', 41.4)
+Original: ('swc-fi', 26.0) Other: ('sv', 37.95)
+Original: ('swc-fr', 28.6) Other: ('en', 45.8)
+Original: ('swc-sv', 30.7) Other: ('en', 50.6)
+Original: ('tiv-fr', 22.3) Other: ('sv', 41.7)
+Original: ('tiv-sv', 23.7) Other: ('en', 45.8)
+Original: ('tll-es', 22.9) Other: ('fr', 39.2)
+Original: ('tll-fi', 22.4) Other: ('sv', 35.400000000000006)
+Original: ('tll-fr', 25.2) Other: ('sv', 42.650000000000006)
+Original: ('tll-sv', 25.6) Other: ('en', 47.3)
+Original: ('tn-es', 29.1) Other: ('sv', 42.05)
+Original: ('tn-fr', 29.0) Other: ('en', 46.95)
+Original: ('tn-sv', 32.0) Other: ('en', 51.75)
+Original: ('to-es', 26.6) Other: ('sv', 41.4)
+Original: ('to-fr', 27.9) Other: ('en', 49.9)
+Original: ('to-sv', 30.7) Other: ('en', 54.7)
+Original: ('toi-es', 24.6) Other: ('fr', 39.85)
+Original: ('toi-fi', 24.5) Other: ('sv', 36.1)
+Original: ('toi-fr', 26.5) Other: ('en', 44.75)
+Original: ('toi-sv', 27.0) Other: ('en', 49.55)
+Original: ('tpi-sv', 21.6) Other: ('en', 44.6)
+Original: ('tr-fr', 45.3) Other: ('es', 57.349999999999994)
+Original: ('tr-sv', 26.3) Other: ('en', 61.8)
+Original: ('ts-es', 28.1) Other: ('sv', 42.35)
+Original: ('ts-fi', 27.7) Other: ('sv', 38.900000000000006)
+Original: ('ts-fr', 29.9) Other: ('en', 47.25)
+Original: ('ts-sv', 32.6) Other: ('en', 52.05)
+Original: ('tum-en', 31.7) Other: ('sv', 43.9)
+Original: ('tum-es', 22.6) Other: ('fr', 38.6)
+Original: ('tum-fr', 24.0) Other: ('sv', 41.5)
+Original: ('tum-sv', 23.3) Other: ('en', 45.9)
+Original: ('tvl-es', 21.0) Other: ('fr', 38.6)
+Original: ('tvl-fi', 22.0) Other: ('sv', 34.95)
+Original: ('tvl-fr', 24.0) Other: ('en', 43.9)
+Original: ('tvl-sv', 24.7) Other: ('en', 48.7)
+Original: ('tw-es', 25.9) Other: ('sv', 40.55)
+Original: ('tw-fi', 25.6) Other: ('sv', 37.1)
+Original: ('tw-fr', 26.7) Other: ('sv', 44.35)
+Original: ('tw-sv', 29.0) Other: ('fr', 43.4)
+Original: ('ty-es', 27.3) Other: ('fr', 41.7)
+Original: ('ty-fi', 21.7) Other: ('sv', 37.05)
+Original: ('ty-fr', 30.2) Other: ('sv', 44.3)
+Original: ('ty-sv', 28.9) Other: ('fr', 45.15)
+Original: ('tzo-es', 20.8) Other: ('es', 36.25)
+Original: ('uk-es', 50.4) Other: ('fr', 52.650000000000006)
+Original: ('uk-fi', 24.4) Other: ('es', 47.4)
+Original: ('uk-fr', 52.1) Other: ('en', 57.3)
+Original: ('ve-en', 41.3) Other: (None, None)
+Original: ('ve-es', 23.1) Other: ('es', 37.400000000000006)
+Original: ('vsl-es', 91.9) Other: ('es', 71.80000000000001)
+Original: ('wa-en', 42.6) Other: (None, None)
+Original: ('wal-en', 22.5) Other: (None, None)
+Original: ('war-es', 28.7) Other: ('sv', 41.75)
+Original: ('war-fi', 26.9) Other: ('sv', 38.3)
+Original: ('war-fr', 30.2) Other: ('sv', 45.55)
+Original: ('war-sv', 31.4) Other: ('fr', 45.15)
+Original: ('wls-en', 31.8) Other: ('sv', 44.15)
+Original: ('wls-fr', 22.6) Other: ('sv', 41.75)
+Original: ('wls-sv', 23.8) Other: ('en', 45.95)
+Original: ('xh-es', 32.3) Other: ('sv', 42.6)
+Original: ('xh-fr', 30.6) Other: ('en', 48.15)
+Original: ('xh-sv', 33.1) Other: ('en', 52.95)
+Original: ('yap-en', 30.2) Other: ('sv', 43.55)
+Original: ('yap-fr', 22.2) Other: ('sv', 41.150000000000006)
+Original: ('yap-sv', 22.6) Other: ('en', 45.15)
+Original: ('yo-es', 22.0) Other: ('fr', 38.650000000000006)
+Original: ('yo-fi', 21.5) Other: ('sv', 35.2)
+Original: ('yo-fr', 24.1) Other: ('sv', 42.45)
+Original: ('yo-sv', 25.2) Other: ('en', 46.95)
+Original: ('zai-es', 20.8) Other: ('es', 36.25)
+Original: ('zne-es', 21.1) Other: ('fr', 39.25)
+Original: ('zne-fi', 22.8) Other: ('sv', 35.2)
+Original: ('zne-fr', 25.3) Other: ('sv', 42.45)
+Original: ('zne-sv', 25.2) Other: ('fr', 42.7)

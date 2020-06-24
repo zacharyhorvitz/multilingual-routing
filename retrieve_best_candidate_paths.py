@@ -68,7 +68,7 @@ def find_best_path(pair,score_dict,aggregation_func=lambda x: np.mean(x)):
 
 if __name__ == "__main__":
 
-    results = get_model_list("Helsinki-NLP/opus-mt")[:80]
+    results = get_model_list("Helsinki-NLP/opus-mt")
 
     language_pairs = {}
 
