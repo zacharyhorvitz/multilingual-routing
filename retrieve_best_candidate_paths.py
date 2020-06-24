@@ -79,4 +79,5 @@ if __name__ == "__main__":
         print(pair,bleu)
 
     for pair in language_pairs.keys():
+    	if language_pairs[pair] == None: continue
     	print("Original:",(pair,language_pairs[pair]), "Other:",find_best_path(pair,language_pairs))
