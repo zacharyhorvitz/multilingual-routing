@@ -55,8 +55,8 @@ def find_best_path(pair,score_dict,aggregation_func=lambda x: np.mean(x)):
 	start = pair.split('-')[0]
 	end = pair.split('-')[1]
 
-	all_possible_start = set([k.split('-')[1]  for k in score_dict.keys() if start == k.split('-')[0]])
-	all_possible_end = set([k.split('-')[0] for k in score_dict.keys() if end == k.split('-')[1]])
+	all_possible_start = set([k.split('-')[1]  for k in score_dict.keys() if start == k.split('-')[0]] and score_dict[k] is not None)
+	all_possible_end = set([k.split('-')[0] for k in score_dict.keys() if end == k.split('-')[1]] and score_dict[k] is not None)
 
 	candidates = all_possible_start.intersection(all_possible_end)
 
