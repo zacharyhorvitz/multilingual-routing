@@ -9,6 +9,7 @@ Research Qs:
 
 # TODO:
 - Condition routing prediction on output translations
+- Explore alternative pivots. Here are the best candidates, ranked:
 
 <pre><code>
 Original: 'ase-de', 27.2 Other: 'en', 73.4
