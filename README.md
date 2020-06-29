@@ -8,7 +8,7 @@ Research Qs:
 
 
 # TODO:
-- Condition routing prediction on output translations
+- Explore regression-based approaches, predict scores independently
 - Explore alternative pivots. Here are the best candidates, ranked:
 
 <pre><code>
