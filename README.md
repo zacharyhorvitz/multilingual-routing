@@ -8,7 +8,7 @@ Research Qs:
 
 
 # TODO:
-- Explore regression-based approaches, predict scores independently
+- Explore regression-based approaches, predict scores independently, predict bad-or-good
 - Explore alternative pivots. Here are the best candidates, ranked:
 
 <pre><code>
